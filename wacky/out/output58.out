@@ -218,1732 +218,2204 @@ add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-remove_team: FAILURE
-add_player: FAILURE
+get_team_points: SUCCESS, 8204
+add_team: FAILURE
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 13
+knockout_winner: SUCCESS, 20
+knockout_winner: INVALID_INPUT
 remove_player: SUCCESS
-add_team: FAILURE
-get_top_scorer: SUCCESS, 142
-get_closest_player: SUCCESS, 146
-get_top_scorer: SUCCESS, 97
-get_closest_player: SUCCESS, 114
-get_top_scorer: SUCCESS, 64
-update_player_stats: SUCCESS
-get_top_scorer: SUCCESS, 83
-unite_teams: FAILURE
-remove_team: FAILURE
-add_team: FAILURE
-get_all_players: SUCCESS
-176
-86
-54
-191
-133
-47
-124
-8
-125
-162
-add_player: FAILURE
-get_top_scorer: SUCCESS, 12
-add_team: FAILURE
-get_all_players: SUCCESS
-176
-86
-54
-191
-133
-47
-124
-8
-125
-162
-play_match: FAILURE
-add_team: FAILURE
-get_top_scorer: SUCCESS, 83
+get_team_points: SUCCESS, 1185
 remove_player: SUCCESS
-play_match: FAILURE
+get_top_scorer: SUCCESS, 7
+get_closest_player: SUCCESS, 112
+get_all_players_count: SUCCESS, 9
+add_team: FAILURE
+get_top_scorer: SUCCESS, 19
 get_all_players: SUCCESS
-176
-86
-54
-191
-133
-47
-124
-8
-125
-162
-get_closest_player: SUCCESS, 119
-update_player_stats: SUCCESS
-get_top_scorer: SUCCESS, 102
-get_num_played_games: SUCCESS, 5323
-get_closest_player: SUCCESS, 52
-get_num_played_games: SUCCESS, 5252
-remove_player: SUCCESS
-get_num_played_games: SUCCESS, 2347
-get_num_played_games: SUCCESS, 10897
-get_closest_player: SUCCESS, 187
-get_all_players: SUCCESS
-53
-80
-98
-148
-123
-68
-14
-184
-69
-88
-141
-65
-44
-165
-136
-get_all_players: SUCCESS
-99
-112
-187
-114
-48
 95
-170
-20
-193
-97
-get_all_players: SUCCESS
-46
-45
-153
-175
-169
-132
-23
-56
-102
-get_team_points: SUCCESS, 1175
-get_num_played_games: SUCCESS, 12067
-get_team_points: SUCCESS, 7441
-get_top_scorer: SUCCESS, 81
-play_match: FAILURE
-get_closest_player: SUCCESS, 12
-get_closest_player: SUCCESS, 31
-get_all_players_count: SUCCESS, 9
-play_match: FAILURE
-update_player_stats: SUCCESS
-get_all_players: SUCCESS
-150
-145
-157
-42
-116
-66
-39
-129
-31
-131
-78
-108
-101
-73
-get_closest_player: SUCCESS, 158
-unite_teams: FAILURE
-get_num_played_games: SUCCESS, 11122
-remove_team: FAILURE
-add_team: FAILURE
-get_all_players: SUCCESS
-32
-128
-5
-158
-59
-2
-197
-171
-61
-89
-4
-18
-111
-get_all_players: SUCCESS
-159
-94
-106
-35
-41
-120
-58
-196
-143
-154
-135
-update_player_stats: SUCCESS
-get_team_points: SUCCESS, 6161
-get_team_points: SUCCESS, 2809
-get_all_players_count: SUCCESS, 8
-update_player_stats: SUCCESS
-get_all_players_count: SUCCESS, 13
-remove_player: SUCCESS
-knockout_winner: FAILURE
-update_player_stats: SUCCESS
-knockout_winner: SUCCESS, 18
-get_top_scorer: SUCCESS, 142
-add_player: FAILURE
-knockout_winner: FAILURE
-add_player: FAILURE
-get_top_scorer: SUCCESS, 83
-add_player: FAILURE
-get_top_scorer: SUCCESS, 146
-play_match: FAILURE
-get_num_played_games: SUCCESS, 1714
-add_player: FAILURE
-unite_teams: FAILURE
-get_num_played_games: SUCCESS, 4994
-get_team_points: SUCCESS, 6589
-knockout_winner: SUCCESS, 18
-add_player: FAILURE
-get_team_points: SUCCESS, 8690
-remove_player: SUCCESS
-add_player: FAILURE
-get_all_players_count: SUCCESS, 14
-add_team: FAILURE
-get_all_players_count: SUCCESS, 14
-remove_player: SUCCESS
-get_all_players_count: SUCCESS, 12
-knockout_winner: SUCCESS, 8
-add_team: FAILURE
-get_top_scorer: SUCCESS, 75
-get_all_players: SUCCESS
-176
-86
-54
-191
-133
-47
-124
-8
-125
-162
-remove_player: SUCCESS
-get_all_players_count: SUCCESS, 8
-get_top_scorer: SUCCESS, 73
-update_player_stats: SUCCESS
-remove_player: SUCCESS
-play_match: SUCCESS
-get_num_played_games: SUCCESS, 7001
-remove_team: FAILURE
-get_num_played_games: SUCCESS, 700
-remove_team: FAILURE
-add_team: FAILURE
-add_player: FAILURE
-knockout_winner: FAILURE
-get_closest_player: SUCCESS, 142
-unite_teams: FAILURE
-play_match: FAILURE
-play_match: FAILURE
-knockout_winner: FAILURE
-unite_teams: FAILURE
-get_team_points: SUCCESS, 3283
-get_closest_player: SUCCESS, 81
-remove_team: FAILURE
-update_player_stats: SUCCESS
-get_team_points: SUCCESS, 1615
-add_player: FAILURE
-get_num_played_games: SUCCESS, 3755
-unite_teams: FAILURE
-get_all_players: SUCCESS
-32
-128
-5
-158
-59
-2
-197
-171
-61
-89
-4
-18
-111
-unite_teams: FAILURE
-add_team: FAILURE
-get_num_played_games: SUCCESS, 10798
-remove_player: SUCCESS
-remove_player: SUCCESS
-get_num_played_games: SUCCESS, 6085
-play_match: FAILURE
-get_num_played_games: SUCCESS, 2663
-knockout_winner: SUCCESS, 10
-add_player: FAILURE
-get_num_played_games: SUCCESS, 10301
-get_all_players_count: SUCCESS, 11
-add_team: FAILURE
-knockout_winner: SUCCESS, 10
-unite_teams: FAILURE
-get_all_players: SUCCESS
-51
-156
-55
-34
-137
-29
-168
-26
-get_team_points: SUCCESS, 8306
-get_top_scorer: SUCCESS, 162
-get_team_points: SUCCESS, 6161
-get_closest_player: SUCCESS, 176
-add_player: FAILURE
-get_closest_player: SUCCESS, 72
-get_top_scorer: SUCCESS, 81
-get_all_players: SUCCESS
-6
-115
 104
-30
-91
-189
-139
-81
-unite_teams: SUCCESS
-remove_player: SUCCESS
-update_player_stats: SUCCESS
-get_closest_player: SUCCESS, 23
-play_match: FAILURE
-remove_player: SUCCESS
-add_player: FAILURE
-get_all_players: SUCCESS
-159
-94
-106
-35
-41
-120
-58
-196
-154
-143
-135
-play_match: FAILURE
-get_all_players_count: SUCCESS, 9
-unite_teams: FAILURE
-unite_teams: FAILURE
-knockout_winner: SUCCESS, 10
-remove_player: SUCCESS
-unite_teams: SUCCESS
-remove_player: SUCCESS
-add_player: FAILURE
-add_player: FAILURE
-get_top_scorer: SUCCESS, 97
-play_match: FAILURE
-remove_team: FAILURE
-update_player_stats: SUCCESS
-update_player_stats: SUCCESS
-get_team_points: SUCCESS, 7724
-get_all_players_count: SUCCESS, 13
-unite_teams: FAILURE
-get_top_scorer: SUCCESS, 195
-get_all_players_count: SUCCESS, 9
-get_all_players_count: SUCCESS, 10
-add_player: FAILURE
-get_top_scorer: SUCCESS, 26
-unite_teams: FAILURE
-get_closest_player: SUCCESS, 124
-remove_player: SUCCESS
-get_closest_player: SUCCESS, 76
-get_closest_player: SUCCESS, 118
-remove_player: SUCCESS
-get_num_played_games: SUCCESS, 8044
-remove_player: SUCCESS
-add_team: FAILURE
-remove_team: FAILURE
-play_match: SUCCESS
-add_player: FAILURE
-remove_player: SUCCESS
-play_match: FAILURE
-update_player_stats: SUCCESS
-unite_teams: INVALID_INPUT
-remove_team: FAILURE
-get_all_players_count: SUCCESS, 13
-remove_player: SUCCESS
-add_player: FAILURE
-remove_player: SUCCESS
-remove_team: FAILURE
-get_team_points: SUCCESS, 7450
-update_player_stats: SUCCESS
-knockout_winner: SUCCESS, 16
-get_team_points: SUCCESS, 6164
-play_match: FAILURE
-unite_teams: FAILURE
-get_closest_player: SUCCESS, 170
-remove_player: SUCCESS
-add_team: FAILURE
-play_match: SUCCESS
-remove_team: FAILURE
-get_team_points: SUCCESS, 6164
-play_match: FAILURE
-get_num_played_games: SUCCESS, 2734
-update_player_stats: SUCCESS
-get_top_scorer: SUCCESS, 136
-unite_teams: INVALID_INPUT
-knockout_winner: SUCCESS, 18
-update_player_stats: SUCCESS
-remove_player: SUCCESS
-get_closest_player: SUCCESS, 75
-get_all_players: SUCCESS
-70
-194
-177
-155
-178
-49
-182
-40
-17
-92
-198
-134
-37
-118
-38
-75
-unite_teams: FAILURE
-remove_team: FAILURE
-add_player: FAILURE
-unite_teams: FAILURE
-get_all_players: SUCCESS
-84
-52
-138
-16
-200
-63
-play_match: SUCCESS
-knockout_winner: SUCCESS, 16
-get_all_players: SUCCESS
-163
-122
-195
-play_match: FAILURE
-add_team: FAILURE
-play_match: INVALID_INPUT
-update_player_stats: SUCCESS
-get_all_players_count: SUCCESS, 12
-play_match: FAILURE
-add_player: FAILURE
-get_all_players_count: SUCCESS, 12
-get_team_points: SUCCESS, 7450
-get_all_players: SUCCESS
-105
-183
-152
-161
-74
-172
-103
-33
-72
-164
-144
-50
-140
-147
-add_team: FAILURE
-remove_player: SUCCESS
-get_num_played_games: SUCCESS, 12038
-remove_player: SUCCESS
-get_top_scorer: SUCCESS, 73
-add_player: FAILURE
-update_player_stats: SUCCESS
-get_num_played_games: SUCCESS, 784
-add_player: FAILURE
-get_all_players_count: SUCCESS, 9
-knockout_winner: SUCCESS, 13
-get_team_points: SUCCESS, 11488
-remove_team: FAILURE
-add_team: FAILURE
-unite_teams: FAILURE
-get_all_players: SUCCESS
-6
-115
-104
-30
-91
-139
-81
-189
-remove_team: FAILURE
-get_all_players_count: SUCCESS, 8
-play_match: FAILURE
-get_num_played_games: SUCCESS, 13697
-get_all_players: SUCCESS
 181
-87
-119
-149
-13
-199
-173
-185
-64
-21
-add_player: FAILURE
-get_closest_player: SUCCESS, 185
+143
+193
+105
+76
+get_num_played_games: SUCCESS, 11477
+get_closest_player: SUCCESS, 41
 remove_team: FAILURE
-add_player: FAILURE
-add_team: FAILURE
-get_top_scorer: SUCCESS, 77
+get_all_players_count: SUCCESS, 5
+remove_player: SUCCESS
 remove_team: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+get_num_played_games: SUCCESS, 6746
+get_num_played_games: SUCCESS, 1986
+get_top_scorer: SUCCESS, 19
+get_team_points: SUCCESS, 8761
+get_num_played_games: SUCCESS, 1633
+get_top_scorer: SUCCESS, 102
+add_player: FAILURE
+get_top_scorer: SUCCESS, 76
 update_player_stats: SUCCESS
-add_player: FAILURE
+update_player_stats: SUCCESS
+get_closest_player: SUCCESS, 85
+get_all_players_count: SUCCESS, 10
+get_all_players_count: SUCCESS, 13
 get_all_players: SUCCESS
-70
-194
-177
-155
-178
-49
-182
-40
-17
-92
-134
-37
-118
-38
-75
+28
+138
+2
 add_player: FAILURE
-get_top_scorer: SUCCESS, 113
-remove_team: FAILURE
-add_player: FAILURE
-add_team: FAILURE
+get_top_scorer: SUCCESS, 74
+remove_player: SUCCESS
+get_team_points: SUCCESS, 8204
+remove_player: SUCCESS
+play_match: FAILURE
 get_all_players: SUCCESS
-15
+78
+30
+172
 90
-174
-67
-151
-109
-130
-79
-77
-180
-knockout_winner: SUCCESS, 13
+70
+146
+119
+7
 get_all_players: SUCCESS
-32
-128
-5
-158
-59
-2
 197
-61
-89
-4
-18
-111
-get_num_played_games: SUCCESS, 7632
-play_match: FAILURE
-get_closest_player: SUCCESS, 179
-get_num_played_games: SUCCESS, 12168
-get_team_points: SUCCESS, 4461
-update_player_stats: SUCCESS
-unite_teams: FAILURE
-add_player: FAILURE
-unite_teams: FAILURE
-get_closest_player: SUCCESS, 158
-get_closest_player: SUCCESS, 194
-get_all_players_count: SUCCESS, 9
-knockout_winner: SUCCESS, 16
-unite_teams: INVALID_INPUT
-remove_player: SUCCESS
-remove_team: FAILURE
-get_top_scorer: SUCCESS, 162
-remove_team: FAILURE
-remove_team: FAILURE
-knockout_winner: SUCCESS, 16
+131
+118
+139
+39
+122
+42
+113
+get_team_points: SUCCESS, 3964
+get_team_points: SUCCESS, 6544
+get_closest_player: SUCCESS, 108
 knockout_winner: FAILURE
-get_all_players_count: SUCCESS, 6
-update_player_stats: SUCCESS
-update_player_stats: SUCCESS
-remove_player: SUCCESS
-remove_team: FAILURE
-knockout_winner: SUCCESS, 16
-play_match: FAILURE
-get_top_scorer: SUCCESS, 25
-get_closest_player: SUCCESS, 28
-remove_team: FAILURE
-remove_team: FAILURE
-get_team_points: SUCCESS, 6164
+knockout_winner: SUCCESS, 13
+knockout_winner: FAILURE
+knockout_winner: SUCCESS, 15
+knockout_winner: INVALID_INPUT
+get_closest_player: SUCCESS, 50
 get_all_players: SUCCESS
-32
-128
-5
-158
-59
-2
-197
-61
-89
-4
-18
+81
+185
+45
+127
+67
+170
+116
+115
+40
+175
 111
-get_all_players: SUCCESS
-176
-86
-54
-191
-133
-47
-124
-8
-125
-162
+49
+46
+145
+61
+get_closest_player: SUCCESS, 198
 add_player: FAILURE
-play_match: FAILURE
+get_closest_player: SUCCESS, 116
+add_team: FAILURE
+remove_player: SUCCESS
 get_all_players_count: SUCCESS, 3
 unite_teams: FAILURE
-get_closest_player: SUCCESS, 55
-get_all_players_count: SUCCESS, 10
+get_all_players_count: SUCCESS, 5
+add_player: FAILURE
+get_num_played_games: SUCCESS, 7263
+get_all_players_count: SUCCESS, 9
 update_player_stats: SUCCESS
-unite_teams: FAILURE
 get_all_players_count: SUCCESS, 8
-get_all_players_count: SUCCESS, 10
-get_all_players: SUCCESS
-82
-100
-166
-60
-121
-7
-93
-83
-25
-get_all_players: SUCCESS
-150
-145
-157
-42
-116
-66
-39
-129
-31
-131
-78
-108
-73
-get_num_played_games: SUCCESS, 4685
-get_top_scorer: SUCCESS, 25
-get_team_points: SUCCESS, 3242
-get_num_played_games: SUCCESS, 4570
-add_team: FAILURE
-get_num_played_games: SUCCESS, 1882
-unite_teams: INVALID_INPUT
-get_closest_player: SUCCESS, 55
-get_all_players: SUCCESS
-46
-45
-175
-132
-23
-56
-102
-153
+get_all_players_count: SUCCESS, 12
+get_team_points: SUCCESS, 8761
 remove_player: SUCCESS
-play_match: FAILURE
-update_player_stats: SUCCESS
 get_all_players: SUCCESS
-15
-90
-174
-67
-151
-109
-79
-130
-77
-180
-knockout_winner: FAILURE
-get_team_points: SUCCESS, 6589
-get_num_played_games: SUCCESS, 2301
-get_num_played_games: SUCCESS, 11471
-get_all_players_count: SUCCESS, 10
-knockout_winner: SUCCESS, 13
-get_all_players: SUCCESS
-105
-183
-152
-161
-74
-172
+64
 103
-33
-72
-164
-144
-50
-140
-147
-remove_team: FAILURE
-get_num_played_games: SUCCESS, 4642
+162
+134
+192
+77
+141
+148
+56
+23
+get_top_scorer: SUCCESS, 76
+unite_teams: SUCCESS
 get_all_players: SUCCESS
-181
-87
-119
-149
-13
-199
-173
+81
 185
-64
-21
-knockout_winner: SUCCESS, 19
-get_team_points: SUCCESS, 3242
-get_num_played_games: SUCCESS, 1399
-get_all_players_count: SUCCESS, 8
+45
+127
+67
+170
+197
+131
+118
+116
+139
+39
+115
+40
+175
+111
+49
+122
+46
+145
+61
+113
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 17
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+update_player_stats: SUCCESS
 unite_teams: FAILURE
-remove_player: SUCCESS
-remove_team: FAILURE
 get_all_players: SUCCESS
-181
-87
-119
-149
-13
-199
-173
-185
-64
-21
-get_team_points: SUCCESS, 6589
+198
+187
+88
+5
+121
+140
+72
+174
+36
+183
+knockout_winner: SUCCESS, 19
+knockout_winner: SUCCESS, 17
+knockout_winner: FAILURE
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+get_team_points: SUCCESS, 1185
+add_player: FAILURE
+update_player_stats: SUCCESS
+get_team_points: SUCCESS, 5357
+add_player: FAILURE
+get_top_scorer: SUCCESS, 23
+unite_teams: FAILURE
 add_team: FAILURE
 play_match: FAILURE
-get_all_players_count: SUCCESS, 14
-add_player: FAILURE
-get_num_played_games: SUCCESS, 6086
-get_all_players_count: SUCCESS, 8
-add_player: FAILURE
 update_player_stats: SUCCESS
-get_top_scorer: SUCCESS, 63
-get_team_points: SUCCESS, 14400
-get_num_played_games: SUCCESS, 4562
-get_all_players: SUCCESS
-53
-98
-123
-68
-14
-184
-69
-88
-65
-44
-165
-136
+get_num_played_games: SUCCESS, 11835
+get_closest_player: SUCCESS, 26
+get_closest_player: SUCCESS, 62
+get_team_points: SUCCESS, 2667
 knockout_winner: SUCCESS, 13
-unite_teams: FAILURE
-get_team_points: SUCCESS, 6164
-update_player_stats: SUCCESS
-update_player_stats: SUCCESS
-get_top_scorer: SUCCESS, 95
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 4
+knockout_winner: SUCCESS, 17
+knockout_winner: INVALID_INPUT
+get_all_players_count: SUCCESS, 12
 add_player: FAILURE
-remove_team: FAILURE
-add_team: FAILURE
-add_player: FAILURE
-get_num_played_games: SUCCESS, 4421
-get_closest_player: SUCCESS, 55
-get_num_played_games: SUCCESS, 12079
-remove_player: SUCCESS
-add_player: FAILURE
-get_all_players_count: SUCCESS, 7
-remove_team: FAILURE
-get_team_points: SUCCESS, 6589
-get_all_players_count: SUCCESS, 8
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 15
+knockout_winner: SUCCESS, 20
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 20
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 15
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+get_all_players: SUCCESS
+21
+106
+101
+107
+97
+153
+9
+160
+17
+play_match: FAILURE
+get_team_points: SUCCESS, 3976
+knockout_winner: SUCCESS, 15
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 4
+knockout_winner: SUCCESS, 17
 knockout_winner: INVALID_INPUT
 remove_team: FAILURE
-get_team_points: SUCCESS, 1692
-get_num_played_games: SUCCESS, 4907
-knockout_winner: SUCCESS, 13
-get_all_players: SUCCESS
-122
-195
-get_all_players: SUCCESS
-82
-100
-166
-60
-121
-7
-93
-83
-25
-get_all_players_count: SUCCESS, 2
-get_all_players_count: SUCCESS, 10
-get_top_scorer: SUCCESS, 136
-get_closest_player: SUCCESS, 46
+add_team: FAILURE
+get_num_played_games: SUCCESS, 239
+get_team_points: SUCCESS, 3910
+add_team: FAILURE
+knockout_winner: SUCCESS, 15
+knockout_winner: SUCCESS, 17
 knockout_winner: FAILURE
+knockout_winner: SUCCESS, 20
+knockout_winner: INVALID_INPUT
+remove_team: FAILURE
 add_player: FAILURE
-get_num_played_games: SUCCESS, 9948
+get_team_points: SUCCESS, 1197
 remove_player: SUCCESS
+remove_team: FAILURE
+add_team: FAILURE
+get_top_scorer: SUCCESS, 183
+remove_player: SUCCESS
+get_top_scorer: SUCCESS, 165
+get_team_points: SUCCESS, 3912
+get_closest_player: SUCCESS, 182
+get_closest_player: SUCCESS, 99
+get_closest_player: SUCCESS, 173
+get_all_players: SUCCESS
+12
+37
+59
+8
+184
+149
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 13
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+update_player_stats: SUCCESS
+remove_player: SUCCESS
+update_player_stats: SUCCESS
 unite_teams: FAILURE
+get_top_scorer: SUCCESS, 62
+add_player: FAILURE
+remove_team: FAILURE
+add_team: FAILURE
+get_num_played_games: SUCCESS, 3734
+remove_player: SUCCESS
+get_team_points: SUCCESS, 1197
+get_num_played_games: SUCCESS, 8482
+remove_team: FAILURE
+knockout_winner: FAILURE
+knockout_winner: SUCCESS, 17
+knockout_winner: FAILURE
+knockout_winner: SUCCESS, 19
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 13
+knockout_winner: SUCCESS, 17
+knockout_winner: INVALID_INPUT
+get_closest_player: SUCCESS, 14
+get_all_players: SUCCESS
+198
+187
+88
+5
+121
+140
+72
+174
+36
+183
+get_all_players_count: SUCCESS, 9
+remove_team: FAILURE
+get_team_points: SUCCESS, 2667
+get_num_played_games: SUCCESS, 10001
+update_player_stats: SUCCESS
+get_all_players_count: SUCCESS, 11
+update_player_stats: SUCCESS
+remove_team: FAILURE
+update_player_stats: SUCCESS
+get_num_played_games: SUCCESS, 961
+knockout_winner: SUCCESS, 16
+knockout_winner: SUCCESS, 17
+knockout_winner: FAILURE
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+update_player_stats: SUCCESS
+add_player: FAILURE
+remove_player: SUCCESS
+update_player_stats: SUCCESS
+unite_teams: FAILURE
+get_all_players: SUCCESS
+178
+173
+84
+124
+74
+34
+get_all_players: SUCCESS
+117
+47
+20
+154
+14
+91
+96
+179
+195
+110
+112
+182
+55
+add_player: FAILURE
+get_top_scorer: SUCCESS, 19
+get_all_players: SUCCESS
+57
+1
+65
+147
+18
+unite_teams: SUCCESS
+get_team_points: SUCCESS, 6544
+remove_team: FAILURE
+play_match: FAILURE
+get_team_points: SUCCESS, 3014
+get_all_players: SUCCESS
+64
+103
+162
+134
+192
+141
+148
+56
+23
+77
+knockout_winner: SUCCESS, 13
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 1
+knockout_winner: SUCCESS, 17
+knockout_winner: INVALID_INPUT
+get_num_played_games: SUCCESS, 2151
+remove_player: SUCCESS
+add_team: FAILURE
+unite_teams: INVALID_INPUT
+add_team: FAILURE
+get_closest_player: SUCCESS, 195
+get_closest_player: SUCCESS, 105
+add_player: FAILURE
+get_all_players_count: SUCCESS, 5
+remove_player: SUCCESS
+get_top_scorer: SUCCESS, 102
+knockout_winner: FAILURE
+knockout_winner: SUCCESS, 13
+knockout_winner: FAILURE
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+get_closest_player: SUCCESS, 34
+add_team: FAILURE
+play_match: FAILURE
+get_num_played_games: SUCCESS, 5329
+update_player_stats: SUCCESS
+remove_team: FAILURE
+remove_team: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+get_num_played_games: SUCCESS, 4370
+unite_teams: FAILURE
+get_closest_player: SUCCESS, 31
+get_closest_player: SUCCESS, 185
+get_all_players_count: SUCCESS, 8
+get_closest_player: SUCCESS, 63
+update_player_stats: SUCCESS
+remove_player: SUCCESS
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 15
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+get_all_players: SUCCESS
+108
+151
+63
+69
+93
+get_top_scorer: SUCCESS, 97
+get_num_played_games: SUCCESS, 11618
+add_player: FAILURE
+update_player_stats: SUCCESS
+remove_player: SUCCESS
+add_player: FAILURE
+unite_teams: FAILURE
+get_all_players_count: SUCCESS, 10
+get_closest_player: SUCCESS, 80
+add_player: FAILURE
+get_team_points: SUCCESS, 6544
+play_match: FAILURE
+add_team: FAILURE
+get_num_played_games: SUCCESS, 8474
+unite_teams: FAILURE
+get_all_players: SUCCESS
+100
+29
+177
+142
+129
+71
+35
+51
+86
+10
+80
+60
+150
+add_player: FAILURE
+get_num_played_games: SUCCESS, 3203
+remove_team: FAILURE
+knockout_winner: FAILURE
+knockout_winner: SUCCESS, 13
+knockout_winner: FAILURE
+knockout_winner: SUCCESS, 13
+knockout_winner: INVALID_INPUT
+play_match: FAILURE
+unite_teams: FAILURE
+unite_teams: SUCCESS
+update_player_stats: SUCCESS
+get_top_scorer: SUCCESS, 58
+play_match: FAILURE
+remove_player: SUCCESS
+add_player: FAILURE
+add_team: FAILURE
+get_closest_player: SUCCESS, 181
+add_player: FAILURE
+remove_team: FAILURE
+update_player_stats: SUCCESS
+get_num_played_games: SUCCESS, 4276
+play_match: FAILURE
+get_top_scorer: SUCCESS, 19
+knockout_winner: INVALID_INPUT
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+get_all_players: SUCCESS
+130
+196
+43
+73
+6
+163
+50
+194
+62
+200
+get_num_played_games: SUCCESS, 8200
+play_match: FAILURE
+update_player_stats: SUCCESS
+add_team: FAILURE
 get_all_players: SUCCESS
 176
-86
-54
-191
-133
-47
-124
-8
-125
-162
-play_match: SUCCESS
-play_match: FAILURE
-get_num_played_games: SUCCESS, 10326
-get_all_players_count: SUCCESS, 7
-get_all_players: SUCCESS
-46
-45
-175
-132
-23
-56
-102
-153
-update_player_stats: SUCCESS
-get_team_points: SUCCESS, 3242
-unite_teams: SUCCESS
-update_player_stats: SUCCESS
-update_player_stats: SUCCESS
-get_all_players_count: SUCCESS, 10
-get_all_players_count: SUCCESS, 8
-add_player: FAILURE
-add_team: FAILURE
-remove_team: FAILURE
-get_closest_player: SUCCESS, 68
-remove_team: FAILURE
-get_all_players_count: SUCCESS, 8
-get_all_players: SUCCESS
-105
-152
-74
-172
-103
-161
-33
-72
-164
-50
-140
-147
-get_all_players_count: SUCCESS, 7
-update_player_stats: SUCCESS
-get_closest_player: SUCCESS, 162
-get_team_points: SUCCESS, 7860
-update_player_stats: SUCCESS
-knockout_winner: SUCCESS, 4
-knockout_winner: SUCCESS, 13
-update_player_stats: SUCCESS
-get_all_players: SUCCESS
-82
-100
-166
-60
-121
-7
-93
-83
 25
-update_player_stats: SUCCESS
-get_team_points: SUCCESS, 14400
-get_all_players_count: SUCCESS, 13
-get_top_scorer: SUCCESS, 170
-knockout_winner: INVALID_INPUT
-remove_team: FAILURE
-get_team_points: SUCCESS, 11488
-remove_team: FAILURE
-knockout_winner: FAILURE
-get_closest_player: SUCCESS, 55
-get_team_points: SUCCESS, 6167
-remove_player: SUCCESS
-get_all_players_count: SUCCESS, 10
-add_player: FAILURE
-remove_team: FAILURE
-add_player: FAILURE
-remove_team: FAILURE
-update_player_stats: SUCCESS
-remove_player: SUCCESS
-get_num_played_games: SUCCESS, 2188
+87
+109
+125
+157
+79
+75
+19
 unite_teams: FAILURE
-update_player_stats: SUCCESS
-get_all_players_count: SUCCESS, 10
+add_team: FAILURE
 add_player: FAILURE
-get_closest_player: SUCCESS, 157
-update_player_stats: SUCCESS
-get_team_points: SUCCESS, 1692
+get_all_players: SUCCESS
+57
+1
+65
+147
+18
+get_all_players_count: SUCCESS, 17
+add_player: FAILURE
+add_player: FAILURE
+get_all_players_count: SUCCESS, 17
+get_all_players: SUCCESS
+178
+173
+84
+124
+34
+add_player: FAILURE
+get_all_players: SUCCESS
+81
+185
+45
+127
+67
+170
+131
+118
+139
+39
+115
+40
+175
+111
+49
+122
+46
+145
+61
+113
+knockout_winner: SUCCESS, 5
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 15
+knockout_winner: FAILURE
+get_all_players_count: SUCCESS, 23
+play_match: FAILURE
 remove_team: FAILURE
+get_top_scorer: SUCCESS, 58
 remove_player: SUCCESS
 play_match: FAILURE
-unite_teams: FAILURE
-add_team: FAILURE
-get_all_players_count: SUCCESS, 12
-update_player_stats: SUCCESS
-knockout_winner: SUCCESS, 4
-remove_player: SUCCESS
-get_all_players_count: SUCCESS, 9
-add_player: FAILURE
-knockout_winner: SUCCESS, 19
 remove_team: FAILURE
-remove_team: FAILURE
-get_num_played_games: SUCCESS, 3516
-knockout_winner: SUCCESS, 13
-add_player: FAILURE
-get_all_players_count: SUCCESS, 9
-get_all_players_count: SUCCESS, 12
-remove_team: FAILURE
+play_match: FAILURE
+get_all_players_count: SUCCESS, 5
+get_all_players: SUCCESS
+48
+180
+22
+152
+166
+169
+53
+33
+31
+161
+52
+114
+128
+54
+186
+24
+44
+get_team_points: SUCCESS, 4912
+get_all_players: SUCCESS
+178
+173
+84
+124
+34
+get_all_players_count: SUCCESS, 17
+get_all_players: SUCCESS
+95
+104
+181
+143
+193
+105
+76
 get_all_players_count: SUCCESS, 10
 add_player: FAILURE
-get_all_players: SUCCESS
-27
-57
-96
-117
-11
-12
-113
-71
-get_team_points: SUCCESS, 1692
-remove_team: FAILURE
-knockout_winner: FAILURE
-get_closest_player: SUCCESS, 147
-remove_team: FAILURE
-get_team_points: SUCCESS, 7450
-knockout_winner: SUCCESS, 13
-get_top_scorer: SUCCESS, 130
-remove_team: FAILURE
-remove_player: SUCCESS
-get_all_players: SUCCESS
-150
-145
-42
-157
-116
-66
-39
-131
-78
-108
-73
-129
-remove_player: SUCCESS
-remove_player: SUCCESS
-remove_player: SUCCESS
+update_player_stats: SUCCESS
+add_player: FAILURE
+add_player: FAILURE
+get_num_played_games: SUCCESS, 7495
 add_team: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+get_all_players_count: SUCCESS, 9
+unite_teams: FAILURE
+get_all_players_count: SUCCESS, 17
+update_player_stats: SUCCESS
+add_team: FAILURE
+remove_team: FAILURE
+remove_player: SUCCESS
+get_all_players_count: SUCCESS, 5
+remove_player: SUCCESS
+get_num_played_games: SUCCESS, 5974
+get_top_scorer: SUCCESS, 93
+unite_teams: FAILURE
+remove_player: SUCCESS
+get_closest_player: SUCCESS, 196
+add_player: FAILURE
+get_closest_player: SUCCESS, 193
+add_team: FAILURE
+add_player: FAILURE
+update_player_stats: SUCCESS
+update_player_stats: SUCCESS
+remove_team: FAILURE
+get_top_scorer: SUCCESS, 36
+get_closest_player: SUCCESS, 99
+get_num_played_games: SUCCESS, 5400
 unite_teams: SUCCESS
 remove_team: FAILURE
-get_team_points: SUCCESS, 1615
-remove_player: SUCCESS
+add_team: FAILURE
 update_player_stats: SUCCESS
-remove_team: FAILURE
+play_match: FAILURE
+remove_player: SUCCESS
 play_match: FAILURE
 add_team: FAILURE
+add_team: FAILURE
+get_all_players_count: SUCCESS, 20
+add_team: FAILURE
+get_top_scorer: SUCCESS, 193
+get_team_points: SUCCESS, 3014
+get_team_points: SUCCESS, 8204
+remove_team: FAILURE
+remove_team: FAILURE
+get_all_players_count: SUCCESS, 3
+get_team_points: SUCCESS, 3912
+play_match: FAILURE
+play_match: FAILURE
+remove_player: SUCCESS
+get_closest_player: SUCCESS, 138
 play_match: INVALID_INPUT
-knockout_winner: SUCCESS, 13
-add_team: FAILURE
-get_closest_player: SUCCESS, 8
-get_all_players_count: SUCCESS, 5
-get_closest_player: SUCCESS, 44
-get_all_players: SUCCESS
-84
-52
-138
-200
-16
-knockout_winner: SUCCESS, 13
-get_closest_player: SUCCESS, 179
-play_match: FAILURE
-add_player: FAILURE
-get_closest_player: SUCCESS, 168
-unite_teams: FAILURE
-add_player: FAILURE
-play_match: FAILURE
-get_closest_player: SUCCESS, 79
-get_closest_player: SUCCESS, 82
-add_team: FAILURE
-get_team_points: SUCCESS, 7860
-get_all_players_count: SUCCESS, 12
-remove_team: FAILURE
-get_team_points: SUCCESS, 14400
-get_all_players_count: SUCCESS, 17
-get_top_scorer: SUCCESS, 170
-get_all_players_count: SUCCESS, 10
-remove_team: FAILURE
-add_player: FAILURE
-remove_team: FAILURE
-add_team: FAILURE
-get_all_players_count: SUCCESS, 11
-add_team: FAILURE
-update_player_stats: SUCCESS
 remove_player: SUCCESS
-add_team: FAILURE
-get_top_scorer: SUCCESS, 111
-add_team: FAILURE
-play_match: FAILURE
 update_player_stats: SUCCESS
+get_closest_player: SUCCESS, 184
+get_num_played_games: SUCCESS, 15800
+get_all_players_count: SUCCESS, 7
+unite_teams: FAILURE
+get_closest_player: SUCCESS, 35
 get_all_players: SUCCESS
-27
-57
-96
-117
-11
-12
-113
-71
-get_closest_player: SUCCESS, 98
-update_player_stats: SUCCESS
-get_closest_player: SUCCESS, 111
-update_player_stats: SUCCESS
-remove_team: FAILURE
-get_top_scorer: SUCCESS, 124
-get_closest_player: SUCCESS, 98
-get_all_players_count: SUCCESS, 8
-get_num_played_games: SUCCESS, 4590
-play_match: FAILURE
-add_player: FAILURE
-get_all_players: SUCCESS
-9
-24
+95
+104
+181
+143
 76
-187
-114
-48
-179
-188
-28
-20
 193
-142
-97
-112
-85
-170
-get_num_played_games: SUCCESS, 6375
-get_closest_player: SUCCESS, 197
-get_team_points: SUCCESS, 407
-get_team_points: SUCCESS, 407
-remove_player: SUCCESS
-remove_team: FAILURE
-remove_player: SUCCESS
-remove_team: FAILURE
-unite_teams: FAILURE
-unite_teams: FAILURE
-add_player: FAILURE
-remove_player: SUCCESS
-unite_teams: FAILURE
-add_team: FAILURE
-get_all_players_count: SUCCESS, 8
-get_team_points: SUCCESS, 9357
-unite_teams: FAILURE
-add_team: FAILURE
-get_num_played_games: SUCCESS, 8857
-get_top_scorer: SUCCESS, 58
-get_all_players_count: SUCCESS, 9
-get_closest_player: SUCCESS, 39
-get_team_points: SUCCESS, 4935
-knockout_winner: SUCCESS, 13
-get_team_points: SUCCESS, 6589
-update_player_stats: SUCCESS
-get_all_players_count: SUCCESS, 16
-get_all_players: SUCCESS
-51
-156
-55
-34
-137
-29
-168
-26
-get_team_points: SUCCESS, 6167
-update_player_stats: SUCCESS
-knockout_winner: SUCCESS, 13
-remove_player: SUCCESS
-unite_teams: FAILURE
-add_player: FAILURE
-add_team: FAILURE
-get_all_players_count: SUCCESS, 8
-remove_team: FAILURE
-play_match: INVALID_INPUT
-remove_player: SUCCESS
-remove_player: SUCCESS
-update_player_stats: SUCCESS
-get_top_scorer: SUCCESS, 147
-get_all_players_count: SUCCESS, 10
-unite_teams: FAILURE
-get_all_players_count: SUCCESS, 8
-play_match: FAILURE
-knockout_winner: SUCCESS, 16
-add_team: FAILURE
-play_match: FAILURE
-get_closest_player: SUCCESS, 157
-get_team_points: SUCCESS, 2827
-remove_team: FAILURE
-add_team: FAILURE
-get_closest_player: SUCCESS, 66
-play_match: FAILURE
-unite_teams: FAILURE
-add_player: FAILURE
-get_top_scorer: SUCCESS, 136
-update_player_stats: SUCCESS
-update_player_stats: SUCCESS
-add_team: FAILURE
-add_team: FAILURE
-add_player: FAILURE
-get_all_players: SUCCESS
-115
-30
-139
-189
-remove_player: SUCCESS
-update_player_stats: SUCCESS
-get_team_points: SUCCESS, 6589
-remove_team: FAILURE
-update_player_stats: SUCCESS
-add_player: FAILURE
-get_top_scorer: SUCCESS, 189
-update_player_stats: SUCCESS
-remove_player: SUCCESS
-add_player: FAILURE
-get_all_players: SUCCESS
-51
-156
-55
-34
-29
-168
-26
-137
-add_player: FAILURE
-play_match: SUCCESS
-play_match: FAILURE
-add_team: FAILURE
-remove_team: FAILURE
-remove_team: FAILURE
-get_top_scorer: SUCCESS, 147
-get_all_players: SUCCESS
 105
-152
-74
-172
-161
-33
+get_team_points: SUCCESS, 3910
+add_team: FAILURE
+get_num_played_games: SUCCESS, 365
+knockout_winner: FAILURE
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 15
+knockout_winner: INVALID_INPUT
+play_match: INVALID_INPUT
+get_team_points: SUCCESS, 10828
+knockout_winner: SUCCESS, 5
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+add_team: FAILURE
+get_top_scorer: SUCCESS, 150
+add_player: FAILURE
+add_team: FAILURE
+get_num_played_games: SUCCESS, 3295
+get_num_played_games: SUCCESS, 915
+remove_player: SUCCESS
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 5
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+update_player_stats: SUCCESS
+remove_team: FAILURE
+get_team_points: SUCCESS, 3912
+add_team: FAILURE
+remove_team: FAILURE
+get_top_scorer: SUCCESS, 44
+remove_team: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+get_num_played_games: SUCCESS, 7467
+add_player: FAILURE
+knockout_winner: SUCCESS, 13
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 15
+knockout_winner: INVALID_INPUT
+play_match: FAILURE
+get_num_played_games: SUCCESS, 11129
+remove_team: FAILURE
+get_num_played_games: SUCCESS, 11431
+get_num_played_games: SUCCESS, 10726
+get_team_points: SUCCESS, 10407
+add_team: FAILURE
+get_all_players: SUCCESS
+156
+26
+190
+82
+171
 164
-50
-103
-140
-147
-get_all_players: SUCCESS
-46
-175
-23
-56
-102
-45
-132
-153
-add_team: FAILURE
-get_num_played_games: SUCCESS, 8207
-add_team: FAILURE
-remove_player: SUCCESS
-get_closest_player: SUCCESS, 157
-get_num_played_games: SUCCESS, 6068
-get_closest_player: SUCCESS, 176
-get_team_points: SUCCESS, 1692
-unite_teams: FAILURE
-get_all_players_count: SUCCESS, 11
-get_top_scorer: SUCCESS, 124
-remove_player: SUCCESS
-knockout_winner: SUCCESS, 16
-get_team_points: SUCCESS, 4935
-get_all_players: SUCCESS
-46
-175
-23
-56
-102
-45
-132
-153
-get_top_scorer: SUCCESS, 124
-remove_player: SUCCESS
-get_closest_player: SUCCESS, 41
-get_all_players: SUCCESS
-52
-138
-200
-16
-remove_team: FAILURE
-play_match: FAILURE
-knockout_winner: INVALID_INPUT
-play_match: FAILURE
-add_team: FAILURE
-add_team: FAILURE
-get_num_played_games: SUCCESS, 6093
-get_top_scorer: SUCCESS, 58
-get_num_played_games: SUCCESS, 5963
-add_player: FAILURE
-get_all_players: SUCCESS
-46
-175
-23
-56
-102
-45
-132
-153
-remove_team: FAILURE
-update_player_stats: SUCCESS
-get_all_players: SUCCESS
-5
-59
-2
-32
-197
-61
-18
-111
-89
-4
-remove_team: FAILURE
-play_match: FAILURE
-add_team: FAILURE
-get_team_points: SUCCESS, 9357
-knockout_winner: SUCCESS, 13
-get_all_players: SUCCESS
-9
-24
-76
-187
-114
-179
-188
-28
-20
-193
-142
-97
-48
-112
-85
-170
-knockout_winner: SUCCESS, 13
-get_closest_player: SUCCESS, 67
-add_player: FAILURE
-play_match: FAILURE
-remove_player: SUCCESS
-get_all_players_count: SUCCESS, 10
-knockout_winner: SUCCESS, 4
-play_match: SUCCESS
-add_team: FAILURE
-remove_player: SUCCESS
-remove_player: SUCCESS
-remove_player: SUCCESS
-add_player: FAILURE
-knockout_winner: SUCCESS, 13
-get_num_played_games: SUCCESS, 2347
-remove_team: FAILURE
-update_player_stats: SUCCESS
-get_team_points: SUCCESS, 7860
-get_team_points: SUCCESS, 3242
-get_team_points: SUCCESS, 11488
-update_player_stats: SUCCESS
-get_all_players: SUCCESS
-70
-194
-155
-178
-49
-40
-17
-134
+158
 92
-118
+123
+167
+37
+59
+15
+99
+136
+135
+16
+120
+184
+11
+85
 38
-75
-get_top_scorer: SUCCESS, 147
-get_num_played_games: SUCCESS, 11270
-add_player: FAILURE
+149
+3
+4
+8
+102
+98
+89
+get_all_players_count: SUCCESS, 9
+get_team_points: SUCCESS, 11915
 remove_player: SUCCESS
-get_team_points: SUCCESS, 1692
-remove_team: FAILURE
-get_all_players_count: SUCCESS, 8
 add_player: FAILURE
+get_all_players: SUCCESS
+57
+1
+65
+147
+18
+get_top_scorer: SUCCESS, 105
+play_match: FAILURE
+knockout_winner: SUCCESS, 15
+knockout_winner: SUCCESS, 15
+knockout_winner: SUCCESS, 13
+knockout_winner: SUCCESS, 19
 knockout_winner: INVALID_INPUT
 update_player_stats: SUCCESS
-get_top_scorer: SUCCESS, 75
-get_closest_player: SUCCESS, 11
-get_closest_player: SUCCESS, 119
 update_player_stats: SUCCESS
-add_team: FAILURE
-get_closest_player: SUCCESS, 109
-unite_teams: FAILURE
-play_match: FAILURE
-get_top_scorer: SUCCESS, 189
+knockout_winner: SUCCESS, 5
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 15
+knockout_winner: FAILURE
 remove_team: FAILURE
-knockout_winner: SUCCESS, 3
-play_match: FAILURE
-get_num_played_games: SUCCESS, 11046
-get_closest_player: SUCCESS, 44
-add_team: FAILURE
-get_closest_player: SUCCESS, 117
-get_team_points: SUCCESS, 3242
-remove_player: SUCCESS
-update_player_stats: SUCCESS
-get_all_players: SUCCESS
-46
-175
-23
-56
-102
-45
-132
-153
-remove_team: FAILURE
-get_all_players_count: SUCCESS, 11
-get_top_scorer: SUCCESS, 79
-get_closest_player: SUCCESS, 14
+get_closest_player: SUCCESS, 156
+get_num_played_games: SUCCESS, 8214
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
 knockout_winner: INVALID_INPUT
 add_team: FAILURE
 get_closest_player: SUCCESS, 61
-get_num_played_games: SUCCESS, 5964
-get_all_players_count: SUCCESS, 12
 remove_player: SUCCESS
-remove_team: FAILURE
-knockout_winner: INVALID_INPUT
-get_all_players: SUCCESS
-9
-24
-76
-187
-114
-179
-188
-28
-20
-193
-142
-97
-48
-112
-85
-170
-add_team: FAILURE
-get_num_played_games: SUCCESS, 7722
-add_player: FAILURE
-get_num_played_games: SUCCESS, 17229
-get_team_points: SUCCESS, 4506
-get_num_played_games: SUCCESS, 4378
-get_closest_player: SUCCESS, 124
-get_all_players_count: SUCCESS, 10
-get_all_players: SUCCESS
-51
-156
-55
-34
-29
-168
-26
-137
-update_player_stats: SUCCESS
-unite_teams: FAILURE
-remove_player: SUCCESS
-get_team_points: SUCCESS, 4506
-update_player_stats: SUCCESS
-get_team_points: SUCCESS, 14400
-remove_player: SUCCESS
-get_all_players: SUCCESS
-60
-121
-7
-93
-83
-25
-100
-get_num_played_games: SUCCESS, 14336
-remove_team: FAILURE
-get_all_players_count: SUCCESS, 8
-knockout_winner: INVALID_INPUT
-unite_teams: FAILURE
-get_team_points: SUCCESS, 11488
-get_closest_player: SUCCESS, 59
-get_closest_player: SUCCESS, 122
-get_all_players: SUCCESS
-152
-172
-161
-33
-164
-105
-50
-103
-140
-147
-update_player_stats: SUCCESS
-get_all_players_count: SUCCESS, 10
-add_player: FAILURE
-remove_player: SUCCESS
-get_closest_player: SUCCESS, 122
-remove_team: FAILURE
-get_all_players: SUCCESS
-5
-59
-2
-32
-197
-61
-18
-111
-4
-89
-get_closest_player: SUCCESS, 191
-play_match: FAILURE
-unite_teams: FAILURE
-remove_player: SUCCESS
-remove_team: FAILURE
-get_top_scorer: SUCCESS, 73
-get_team_points: SUCCESS, 19409
-play_match: FAILURE
-remove_team: FAILURE
-get_top_scorer: SUCCESS, 136
-get_closest_player: SUCCESS, 184
-unite_teams: FAILURE
-remove_player: SUCCESS
-get_num_played_games: SUCCESS, 8657
-get_all_players_count: SUCCESS, 11
-knockout_winner: INVALID_INPUT
-play_match: FAILURE
-unite_teams: FAILURE
-get_num_played_games: SUCCESS, 4949
-get_all_players: SUCCESS
-52
-138
-200
-16
-add_player: FAILURE
-get_closest_player: SUCCESS, 70
-get_team_points: SUCCESS, 2827
-update_player_stats: SUCCESS
-get_closest_player: SUCCESS, 164
-get_all_players_count: SUCCESS, 10
-add_player: FAILURE
-remove_team: FAILURE
-get_all_players_count: SUCCESS, 10
+knockout_winner: SUCCESS, 15
+knockout_winner: SUCCESS, 15
 knockout_winner: FAILURE
-get_all_players_count: SUCCESS, 4
-unite_teams: INVALID_INPUT
-get_team_points: SUCCESS, 19409
-update_player_stats: SUCCESS
-get_all_players_count: SUCCESS, 9
-add_player: FAILURE
-get_all_players: SUCCESS
-51
-156
-55
-34
-29
-168
-26
-137
-get_all_players_count: SUCCESS, 7
-remove_player: SUCCESS
-get_all_players_count: SUCCESS, 10
-get_num_played_games: SUCCESS, 1841
-get_all_players_count: SUCCESS, 7
-add_player: FAILURE
-play_match: FAILURE
-get_num_played_games: SUCCESS, 7693
-knockout_winner: INVALID_INPUT
-get_team_points: SUCCESS, 2827
-get_closest_player: SUCCESS, 14
-get_closest_player: SUCCESS, 89
-knockout_winner: INVALID_INPUT
-add_team: FAILURE
-get_top_scorer: SUCCESS, 124
-update_player_stats: SUCCESS
-play_match: FAILURE
-play_match: FAILURE
-remove_player: SUCCESS
-remove_player: SUCCESS
-get_all_players: SUCCESS
-9
-24
-187
-114
-179
-188
-28
-20
-193
-142
-97
-48
-112
-85
-170
-get_all_players: SUCCESS
-150
-145
-42
-157
-66
-131
-78
-73
-116
-39
-remove_player: SUCCESS
-update_player_stats: SUCCESS
-get_all_players_count: SUCCESS, 3
-remove_player: SUCCESS
 knockout_winner: FAILURE
-add_player: FAILURE
-add_team: FAILURE
-unite_teams: FAILURE
-get_all_players_count: SUCCESS, 9
-get_top_scorer: SUCCESS, 64
-update_player_stats: SUCCESS
-add_player: FAILURE
-get_top_scorer: SUCCESS, 100
-play_match: FAILURE
-play_match: FAILURE
-update_player_stats: SUCCESS
-get_closest_player: SUCCESS, 60
-unite_teams: FAILURE
-knockout_winner: FAILURE
-update_player_stats: SUCCESS
-get_top_scorer: SUCCESS, 137
-get_top_scorer: SUCCESS, 170
-get_top_scorer: SUCCESS, 137
-update_player_stats: SUCCESS
-play_match: FAILURE
-update_player_stats: SUCCESS
-get_top_scorer: SUCCESS, 147
-get_all_players_count: SUCCESS, 11
-get_all_players: SUCCESS
-159
-106
-41
-120
-135
-154
-update_player_stats: SUCCESS
-remove_player: SUCCESS
-get_top_scorer: SUCCESS, 79
-update_player_stats: SUCCESS
-unite_teams: FAILURE
 knockout_winner: INVALID_INPUT
-unite_teams: FAILURE
-unite_teams: FAILURE
-update_player_stats: SUCCESS
-get_all_players: SUCCESS
-51
-156
-55
-34
-29
-168
-26
-137
-get_top_scorer: SUCCESS, 39
-remove_player: SUCCESS
-get_num_played_games: SUCCESS, 7001
-get_num_played_games: SUCCESS, 9697
-knockout_winner: SUCCESS, 13
-play_match: FAILURE
+get_num_played_games: SUCCESS, 6834
+knockout_winner: SUCCESS, 15
+knockout_winner: SUCCESS, 15
 knockout_winner: FAILURE
-unite_teams: SUCCESS
-get_all_players_count: SUCCESS, 11
-add_team: FAILURE
-get_closest_player: SUCCESS, 153
-add_team: FAILURE
-knockout_winner: INVALID_INPUT
-add_team: FAILURE
-unite_teams: FAILURE
-get_all_players_count: SUCCESS, 15
-get_team_points: SUCCESS, 6167
-get_top_scorer: SUCCESS, 189
-add_player: FAILURE
-get_all_players_count: SUCCESS, 8
-unite_teams: FAILURE
-remove_player: SUCCESS
-unite_teams: FAILURE
-get_num_played_games: SUCCESS, 3725
-get_closest_player: SUCCESS, 150
-get_all_players: SUCCESS
-53
-123
-14
-184
-88
-65
-98
-136
-get_all_players: SUCCESS
-159
-106
-41
-120
-135
-154
-get_num_played_games: SUCCESS, 17229
-update_player_stats: SUCCESS
-get_all_players_count: SUCCESS, 9
-unite_teams: FAILURE
-get_team_points: SUCCESS, 416
-get_top_scorer: SUCCESS, 89
-get_top_scorer: SUCCESS, 75
-get_all_players_count: SUCCESS, 6
-get_all_players_count: SUCCESS, 10
-get_top_scorer: SUCCESS, 16
-get_all_players_count: SUCCESS, 3
-unite_teams: SUCCESS
-get_num_played_games: SUCCESS, 4378
-unite_teams: FAILURE
-add_team: FAILURE
-unite_teams: FAILURE
-get_all_players_count: SUCCESS, 8
-knockout_winner: SUCCESS, 13
-get_top_scorer: SUCCESS, 147
-get_closest_player: SUCCESS, 98
-update_player_stats: SUCCESS
-knockout_winner: FAILURE
-unite_teams: FAILURE
-get_top_scorer: SUCCESS, 39
-play_match: FAILURE
-get_num_played_games: SUCCESS, 3725
-update_player_stats: SUCCESS
-add_team: FAILURE
-unite_teams: SUCCESS
 knockout_winner: SUCCESS, 19
-remove_team: FAILURE
-update_player_stats: SUCCESS
+knockout_winner: INVALID_INPUT
 unite_teams: FAILURE
-get_all_players_count: SUCCESS, 3
-remove_team: FAILURE
-get_team_points: SUCCESS, 1692
-update_player_stats: SUCCESS
-play_match: FAILURE
-add_team: FAILURE
-get_top_scorer: SUCCESS, 137
-remove_team: FAILURE
-get_team_points: SUCCESS, 6589
-knockout_winner: FAILURE
-update_player_stats: SUCCESS
-get_num_played_games: SUCCESS, 12033
-get_num_played_games: SUCCESS, 7693
-get_all_players: SUCCESS
-60
-7
-93
-83
-25
-100
-get_all_players_count: SUCCESS, 7
-play_match: FAILURE
-remove_player: SUCCESS
 remove_player: SUCCESS
 update_player_stats: SUCCESS
-get_closest_player: SUCCESS, 15
-get_top_scorer: SUCCESS, 154
-get_team_points: SUCCESS, 8306
-get_team_points: SUCCESS, 13103
-get_top_scorer: SUCCESS, 154
-get_all_players: SUCCESS
-53
-123
-14
-184
-88
-65
-98
-136
-knockout_winner: SUCCESS, 3
-get_num_played_games: SUCCESS, 14892
-get_closest_player: SUCCESS, 197
-get_num_played_games: SUCCESS, 19876
-update_player_stats: SUCCESS
+remove_team: FAILURE
+get_team_points: SUCCESS, 8204
 add_player: FAILURE
-get_team_points: SUCCESS, 416
+play_match: INVALID_INPUT
+get_closest_player: SUCCESS, 37
 remove_player: SUCCESS
 unite_teams: FAILURE
-get_top_scorer: SUCCESS, 113
-get_num_played_games: SUCCESS, 11531
-get_all_players_count: SUCCESS, 3
-get_closest_player: SUCCESS, 175
-update_player_stats: SUCCESS
+knockout_winner: SUCCESS, 1
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
 get_all_players: SUCCESS
-46
-52
-138
-175
-23
-56
-200
+81
+185
 45
-16
-153
-get_team_points: SUCCESS, 12366
+127
+170
+131
+118
+139
+39
+115
+40
+111
+49
+67
+122
+145
+61
+113
+46
+get_all_players_count: SUCCESS, 5
+unite_teams: FAILURE
+get_team_points: SUCCESS, 5698
+add_team: FAILURE
+unite_teams: SUCCESS
+remove_team: FAILURE
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 5
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+remove_player: SUCCESS
+update_player_stats: SUCCESS
+remove_player: SUCCESS
+get_closest_player: SUCCESS, 120
+get_all_players_count: SUCCESS, 3
+update_player_stats: SUCCESS
+add_player: FAILURE
+unite_teams: FAILURE
+get_team_points: SUCCESS, 3014
+play_match: FAILURE
+get_num_played_games: SUCCESS, 9411
+remove_team: FAILURE
+get_num_played_games: SUCCESS, 11218
+knockout_winner: SUCCESS, 19
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+remove_player: SUCCESS
+get_all_players_count: SUCCESS, 14
+get_team_points: SUCCESS, 2667
+get_all_players: SUCCESS
+155
+83
+32
+68
+13
+133
+94
+189
+41
+58
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+get_team_points: SUCCESS, 3910
+get_team_points: SUCCESS, 7432
+get_num_played_games: SUCCESS, 22941
+get_closest_player: SUCCESS, 11
+get_num_played_games: SUCCESS, 2296
+get_closest_player: SUCCESS, 50
+remove_player: SUCCESS
+get_top_scorer: SUCCESS, 105
+get_team_points: SUCCESS, 7432
+get_all_players_count: SUCCESS, 3
+knockout_winner: SUCCESS, 19
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+unite_teams: FAILURE
+add_player: FAILURE
+get_team_points: SUCCESS, 4912
+update_player_stats: SUCCESS
+get_closest_player: SUCCESS, 117
+get_closest_player: SUCCESS, 1
+update_player_stats: SUCCESS
+update_player_stats: SUCCESS
+unite_teams: FAILURE
+get_team_points: SUCCESS, 10407
 play_match: FAILURE
 add_team: FAILURE
-knockout_winner: SUCCESS, 19
-get_num_played_games: SUCCESS, 2281
+get_all_players: SUCCESS
+25
+87
+109
+125
+157
+79
+19
+get_all_players: SUCCESS
+78
+30
+172
+90
+70
+7
+119
+146
+remove_team: FAILURE
+get_all_players_count: SUCCESS, 5
+get_all_players_count: SUCCESS, 11
+remove_player: SUCCESS
+remove_player: SUCCESS
+get_num_played_games: SUCCESS, 6158
 unite_teams: FAILURE
+get_all_players_count: SUCCESS, 5
+get_num_played_games: SUCCESS, 7903
 play_match: FAILURE
-get_top_scorer: SUCCESS, 170
-get_closest_player: SUCCESS, 67
 add_player: FAILURE
-get_team_points: SUCCESS, 3242
+remove_player: SUCCESS
+get_all_players_count: SUCCESS, 10
+get_all_players: SUCCESS
+28
+138
+2
+remove_player: SUCCESS
+get_all_players: SUCCESS
+25
+87
+109
+125
+157
+79
+19
+get_closest_player: SUCCESS, 147
+add_player: FAILURE
+get_team_points: SUCCESS, 9652
+play_match: INVALID_INPUT
+get_all_players: SUCCESS
+81
+185
+45
+127
+170
+131
+118
+139
+39
+115
+40
+111
+67
+122
+145
+49
+46
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+get_all_players: SUCCESS
+108
+151
+69
+93
+remove_player: SUCCESS
+remove_team: FAILURE
+get_num_played_games: SUCCESS, 557
+get_all_players_count: SUCCESS, 8
+get_num_played_games: SUCCESS, 9868
+add_team: FAILURE
+get_team_points: SUCCESS, 4912
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 12
+knockout_winner: FAILURE
+get_top_scorer: SUCCESS, 97
+get_num_played_games: SUCCESS, 2356
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 5
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
 get_all_players_count: SUCCESS, 8
 update_player_stats: SUCCESS
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+get_top_scorer: SUCCESS, 34
+get_top_scorer: SUCCESS, 89
+get_all_players_count: SUCCESS, 26
+get_team_points: SUCCESS, 2667
+unite_teams: FAILURE
+get_closest_player: SUCCESS, 148
+get_team_points: SUCCESS, 4912
+add_team: FAILURE
+get_team_points: SUCCESS, 3910
+get_top_scorer: SUCCESS, 19
 get_all_players: SUCCESS
-60
-7
-93
-83
-25
-100
+28
+138
+2
+remove_player: SUCCESS
+knockout_winner: SUCCESS, 13
+knockout_winner: SUCCESS, 12
+knockout_winner: FAILURE
 knockout_winner: SUCCESS, 19
+knockout_winner: INVALID_INPUT
+get_top_scorer: SUCCESS, 13
+update_player_stats: SUCCESS
+get_all_players_count: SUCCESS, 16
+remove_team: FAILURE
+play_match: FAILURE
+get_closest_player: SUCCESS, 36
+get_top_scorer: SUCCESS, 2
+get_all_players: SUCCESS
+130
+196
+43
+73
+6
+163
+50
+194
+62
+200
+get_top_scorer: SUCCESS, 146
+play_match: FAILURE
+get_num_played_games: SUCCESS, 8474
+remove_player: SUCCESS
+remove_player: SUCCESS
+get_all_players: SUCCESS
+187
+140
+121
+104
+72
+181
+143
+174
+76
+198
+183
+193
+36
+105
+get_all_players: SUCCESS
+178
+173
+84
+124
+34
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+remove_team: FAILURE
+get_num_played_games: SUCCESS, 15669
+get_num_played_games: SUCCESS, 4859
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 15
+knockout_winner: INVALID_INPUT
+get_team_points: SUCCESS, 8761
+play_match: FAILURE
+get_num_played_games: SUCCESS, 11835
+get_num_played_games: SUCCESS, 6032
+remove_player: SUCCESS
+unite_teams: FAILURE
+get_closest_player: SUCCESS, 57
+get_closest_player: SUCCESS, 143
+remove_player: SUCCESS
+get_top_scorer: SUCCESS, 34
+get_top_scorer: SUCCESS, 2
+get_all_players_count: SUCCESS, 5
+add_player: FAILURE
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+get_closest_player: SUCCESS, 84
+get_all_players: SUCCESS
+101
+107
+153
+9
+160
+17
+21
+97
+update_player_stats: SUCCESS
+remove_team: FAILURE
+get_num_played_games: SUCCESS, 10777
+get_num_played_games: SUCCESS, 11010
+get_team_points: SUCCESS, 6544
+get_all_players: SUCCESS
+81
+185
+45
+127
+170
+131
+118
+139
+39
+115
+40
+111
+67
+122
+145
+49
+add_team: FAILURE
+remove_team: FAILURE
+get_num_played_games: SUCCESS, 5329
+get_team_points: SUCCESS, 6544
+get_all_players: SUCCESS
+28
+138
+2
+get_num_played_games: SUCCESS, 7467
+remove_player: SUCCESS
+remove_player: SUCCESS
+add_player: FAILURE
+get_top_scorer: SUCCESS, 49
+get_closest_player: SUCCESS, 55
+update_player_stats: SUCCESS
+get_all_players_count: SUCCESS, 24
+add_team: FAILURE
+get_num_played_games: SUCCESS, 5498
+remove_player: SUCCESS
+get_team_points: SUCCESS, 2667
+update_player_stats: SUCCESS
+get_closest_player: SUCCESS, 48
+get_all_players_count: SUCCESS, 10
+get_num_played_games: SUCCESS, 14246
+get_team_points: SUCCESS, 11269
+remove_team: FAILURE
+add_team: FAILURE
+remove_team: FAILURE
+get_all_players: SUCCESS
+25
+87
+109
+157
+79
+19
+play_match: FAILURE
+get_team_points: SUCCESS, 11915
+remove_team: FAILURE
+get_team_points: SUCCESS, 11915
+get_team_points: SUCCESS, 4921
+remove_player: SUCCESS
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+unite_teams: FAILURE
+get_closest_player: SUCCESS, 118
+remove_player: SUCCESS
+get_top_scorer: SUCCESS, 89
+remove_team: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+get_all_players: SUCCESS
+117
+20
+154
+14
+91
+195
+110
+112
+182
+55
+179
+update_player_stats: SUCCESS
+get_num_played_games: SUCCESS, 2347
+remove_player: SUCCESS
+get_all_players: SUCCESS
+48
+22
+166
+169
+53
+33
+31
+161
+52
+114
+152
+128
+54
+186
+24
+44
+get_all_players_count: SUCCESS, 16
+unite_teams: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 5
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+get_closest_player: SUCCESS, 196
+get_all_players_count: SUCCESS, 16
+get_num_played_games: SUCCESS, 10851
+get_top_scorer: SUCCESS, 34
+add_team: FAILURE
+add_team: FAILURE
+update_player_stats: SUCCESS
+play_match: FAILURE
+get_closest_player: SUCCESS, 98
+remove_team: FAILURE
+get_all_players_count: SUCCESS, 6
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 13
+knockout_winner: INVALID_INPUT
+remove_player: SUCCESS
+unite_teams: SUCCESS
+get_all_players_count: SUCCESS, 6
+get_all_players: SUCCESS
+28
+138
+2
+remove_team: FAILURE
+remove_team: FAILURE
+get_top_scorer: SUCCESS, 13
+remove_team: FAILURE
+add_player: FAILURE
+get_closest_player: SUCCESS, 145
+remove_player: SUCCESS
+unite_teams: FAILURE
+knockout_winner: FAILURE
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 5
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+get_top_scorer: SUCCESS, 34
+add_player: FAILURE
+get_closest_player: SUCCESS, 193
+update_player_stats: SUCCESS
+get_team_points: SUCCESS, 5357
+get_top_scorer: SUCCESS, 89
+get_all_players: SUCCESS
+117
+20
+154
+14
+91
+195
+110
+112
+182
+179
+55
+update_player_stats: SUCCESS
+play_match: FAILURE
+get_team_points: SUCCESS, 7432
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+remove_team: FAILURE
+get_closest_player: SUCCESS, 49
+play_match: FAILURE
+remove_team: FAILURE
+remove_player: SUCCESS
+add_team: FAILURE
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+play_match: FAILURE
+get_team_points: SUCCESS, 11915
+get_closest_player: SUCCESS, 130
+remove_player: SUCCESS
+update_player_stats: SUCCESS
+remove_player: SUCCESS
+knockout_winner: SUCCESS, 19
+knockout_winner: SUCCESS, 13
+knockout_winner: SUCCESS, 13
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+remove_player: SUCCESS
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+update_player_stats: SUCCESS
+unite_teams: FAILURE
+get_all_players_count: SUCCESS, 8
+add_player: FAILURE
+unite_teams: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+get_all_players: SUCCESS
+101
+107
+153
+9
+160
+21
+17
+97
+get_num_played_games: SUCCESS, 2116
+get_closest_player: SUCCESS, 174
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 5
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+get_top_scorer: SUCCESS, 34
+get_all_players_count: SUCCESS, 4
+remove_team: FAILURE
+get_num_played_games: SUCCESS, 2296
+add_team: FAILURE
+add_team: FAILURE
+add_team: FAILURE
+get_all_players: SUCCESS
+25
+87
+109
+157
+19
+79
+get_num_played_games: SUCCESS, 4386
+get_all_players: SUCCESS
+108
+151
+69
+93
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+update_player_stats: SUCCESS
+get_closest_player: SUCCESS, 41
+update_player_stats: SUCCESS
+add_team: FAILURE
+get_num_played_games: SUCCESS, 915
+get_all_players_count: SUCCESS, 6
+get_num_played_games: SUCCESS, 8482
 get_all_players_count: SUCCESS, 9
 add_team: FAILURE
-get_all_players: SUCCESS
-5
-59
-2
-32
-194
-197
-155
-178
-61
-17
-49
-18
-70
-111
-118
-38
-40
-4
-75
-92
-89
-get_team_points: SUCCESS, 3242
+get_team_points: SUCCESS, 2667
 add_team: FAILURE
-get_top_scorer: SUCCESS, 170
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+get_closest_player: SUCCESS, 109
+add_team: FAILURE
+unite_teams: FAILURE
 update_player_stats: SUCCESS
-get_num_played_games: SUCCESS, 11046
-get_top_scorer: SUCCESS, 39
-get_num_played_games: SUCCESS, 10429
 remove_player: SUCCESS
+add_player: FAILURE
+update_player_stats: SUCCESS
+get_closest_player: SUCCESS, 122
+get_all_players_count: SUCCESS, 4
+unite_teams: FAILURE
+add_team: FAILURE
+get_all_players_count: SUCCESS, 6
+add_team: FAILURE
+knockout_winner: SUCCESS, 1
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+knockout_winner: FAILURE
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 1
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+get_all_players: SUCCESS
+156
+82
+171
+164
+190
+158
+92
+167
+59
+135
+16
+120
+184
+11
+149
+3
+4
+8
+102
+98
+89
+get_top_scorer: SUCCESS, 2
+get_closest_player: SUCCESS, 17
+play_match: FAILURE
+unite_teams: FAILURE
+get_top_scorer: SUCCESS, 55
+add_team: FAILURE
+get_all_players_count: SUCCESS, 8
+remove_player: SUCCESS
+add_team: FAILURE
+add_team: FAILURE
+get_top_scorer: SUCCESS, 97
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+play_match: FAILURE
+remove_team: FAILURE
+get_top_scorer: SUCCESS, 44
+get_top_scorer: SUCCESS, 34
+add_player: FAILURE
+get_all_players: SUCCESS
+78
+30
+172
+70
+7
+146
+add_player: FAILURE
+get_closest_player: SUCCESS, 162
+get_closest_player: SUCCESS, 21
+unite_teams: FAILURE
+get_closest_player: SUCCESS, 11
+remove_team: FAILURE
+get_num_played_games: SUCCESS, 7628
+get_all_players_count: SUCCESS, 11
+get_top_scorer: SUCCESS, 34
+remove_player: SUCCESS
+get_all_players: SUCCESS
+28
+138
+2
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 12
+knockout_winner: FAILURE
+play_match: FAILURE
+get_all_players: SUCCESS
+81
+185
+187
+45
+127
+170
+140
+131
+118
+104
+72
+181
+39
+115
+40
+111
+143
+174
+67
+122
+76
+198
+139
+145
+183
+49
+193
+36
+105
+add_player: FAILURE
+get_team_points: SUCCESS, 5357
+add_team: FAILURE
+add_team: FAILURE
+get_num_played_games: SUCCESS, 15800
+remove_team: FAILURE
+remove_team: FAILURE
+update_player_stats: SUCCESS
+get_team_points: SUCCESS, 3014
+get_all_players: SUCCESS
+156
+82
+171
+164
+190
+92
+167
+59
+135
+16
+120
+184
+11
+149
+3
+4
+8
+102
+98
+89
+add_team: FAILURE
+update_player_stats: SUCCESS
+get_all_players: SUCCESS
+101
+107
+153
+9
+160
+21
+17
+97
+get_all_players_count: SUCCESS, 4
+get_top_scorer: SUCCESS, 13
+get_top_scorer: SUCCESS, 44
+get_all_players_count: SUCCESS, 3
+get_top_scorer: SUCCESS, 1
+get_all_players_count: SUCCESS, 20
+get_team_points: SUCCESS, 8761
+unite_teams: SUCCESS
+get_team_points: SUCCESS, 8761
+get_num_played_games: SUCCESS, 14021
+update_player_stats: SUCCESS
+unite_teams: SUCCESS
+get_num_played_games: SUCCESS, 11567
+remove_team: FAILURE
+get_team_points: SUCCESS, 7432
+remove_player: SUCCESS
+unite_teams: FAILURE
+get_num_played_games: SUCCESS, 6778
+play_match: SUCCESS
+unite_teams: FAILURE
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+update_player_stats: SUCCESS
+get_all_players: SUCCESS
+22
+169
+33
+52
+161
+114
+48
+152
+31
+128
+54
+186
+24
+44
+add_team: FAILURE
+get_num_played_games: SUCCESS, 15800
+get_team_points: SUCCESS, 3014
+get_top_scorer: SUCCESS, 7
+play_match: FAILURE
+play_match: FAILURE
+get_all_players_count: SUCCESS, 10
+remove_team: FAILURE
+get_all_players_count: SUCCESS, 13
+unite_teams: FAILURE
+get_team_points: SUCCESS, 5357
+get_all_players: SUCCESS
+156
+25
+82
+171
+164
+190
+92
+167
+59
+109
+135
+16
+120
+157
+184
+11
+149
+3
+4
+8
+19
+102
+98
+87
+79
+89
+get_all_players: SUCCESS
+156
+25
+82
+171
+164
+190
+92
+167
+59
+109
+135
+16
+120
+157
+184
+11
+149
+3
+4
+8
+19
+102
+98
+87
+79
+89
+get_all_players: SUCCESS
+117
+20
+154
+14
+91
+195
+110
+112
+182
+179
+55
+get_team_points: SUCCESS, 10906
+get_all_players_count: SUCCESS, 4
+knockout_winner: FAILURE
+knockout_winner: SUCCESS, 12
+knockout_winner: FAILURE
+knockout_winner: SUCCESS, 13
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 19
+knockout_winner: INVALID_INPUT
+get_team_points: SUCCESS, 7432
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 19
+knockout_winner: INVALID_INPUT
+get_all_players_count: SUCCESS, 26
+remove_player: SUCCESS
+get_top_scorer: SUCCESS, 89
+remove_team: FAILURE
+get_top_scorer: SUCCESS, 93
+knockout_winner: SUCCESS, 5
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+remove_player: SUCCESS
+get_closest_player: SUCCESS, 82
+get_closest_player: SUCCESS, 34
+unite_teams: FAILURE
+get_top_scorer: SUCCESS, 1
+get_team_points: SUCCESS, 11293
+remove_team: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+remove_team: FAILURE
+add_team: FAILURE
+update_player_stats: SUCCESS
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 5
+knockout_winner: SUCCESS, 12
+knockout_winner: INVALID_INPUT
+get_num_played_games: SUCCESS, 1839
+knockout_winner: SUCCESS, 5
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+get_top_scorer: SUCCESS, 51
+get_num_played_games: SUCCESS, 14377
+update_player_stats: SUCCESS
+get_num_played_games: SUCCESS, 9347
+remove_team: FAILURE
+unite_teams: FAILURE
+get_all_players_count: SUCCESS, 3
+unite_teams: SUCCESS
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 12
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+remove_team: FAILURE
+get_num_played_games: SUCCESS, 656
+get_all_players: SUCCESS
+156
+25
+82
+171
+164
+190
+92
+167
+109
+135
+16
+120
+157
+184
+11
+3
+4
+8
+19
+102
+98
+87
+79
+89
+get_closest_player: SUCCESS, 181
+remove_player: SUCCESS
+add_player: FAILURE
+remove_player: SUCCESS
+add_player: FAILURE
+get_team_points: SUCCESS, 10912
+get_all_players_count: SUCCESS, 8
+update_player_stats: SUCCESS
+update_player_stats: SUCCESS
+get_all_players: SUCCESS
+156
+25
+82
+171
+164
+190
+92
+167
+109
+135
+16
+120
+157
+11
+3
+4
+8
+19
+102
+98
+87
+79
+89
+remove_team: FAILURE
+add_player: FAILURE
+get_top_scorer: SUCCESS, 1
+get_num_played_games: SUCCESS, 11835
+get_num_played_games: SUCCESS, 14021
+get_all_players_count: SUCCESS, 15
+add_player: FAILURE
+get_num_played_games: SUCCESS, 7622
+update_player_stats: SUCCESS
+get_top_scorer: SUCCESS, 1
+add_player: FAILURE
+unite_teams: FAILURE
+update_player_stats: SUCCESS
+get_team_points: SUCCESS, 15305
+remove_player: SUCCESS
+get_team_points: SUCCESS, 15305
+remove_player: SUCCESS
+get_closest_player: SUCCESS, 147
+get_top_scorer: SUCCESS, 89
+get_all_players: SUCCESS
+28
+138
+65
+2
+18
+147
+1
+get_top_scorer: SUCCESS, 1
+get_closest_player: SUCCESS, 145
+remove_player: SUCCESS
+get_num_played_games: SUCCESS, 7467
+get_all_players: SUCCESS
+81
+185
+187
+45
+127
+170
+140
+131
+118
+104
+72
+181
+39
+115
+40
+111
+143
+174
+67
+122
+76
+198
+139
+145
+183
+49
+193
+36
+get_all_players_count: SUCCESS, 3
+get_team_points: SUCCESS, 15305
+add_player: FAILURE
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 17
+knockout_winner: SUCCESS, 1
+knockout_winner: SUCCESS, 17
+knockout_winner: INVALID_INPUT
+remove_player: SUCCESS
+update_player_stats: SUCCESS
+add_team: FAILURE
+get_all_players_count: SUCCESS, 11
+get_all_players: SUCCESS
+156
+25
+82
+171
+164
+190
+92
+167
+109
+135
+16
+120
+157
+11
+3
+4
+8
+19
+102
+98
+87
+79
+89
+remove_player: SUCCESS
+add_player: FAILURE
+get_closest_player: SUCCESS, 170
+update_player_stats: SUCCESS
+update_player_stats: SUCCESS
+get_all_players_count: SUCCESS, 8
+knockout_winner: SUCCESS, 12
+knockout_winner: SUCCESS, 17
+knockout_winner: FAILURE
+knockout_winner: SUCCESS, 17
+knockout_winner: INVALID_INPUT
+get_num_played_games: SUCCESS, 14692
+remove_player: SUCCESS
+get_team_points: SUCCESS, 11293
+knockout_winner: SUCCESS, 17
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: SUCCESS, 19
+knockout_winner: SUCCESS, 12
+get_all_players_count: SUCCESS, 9
+unite_teams: SUCCESS
+remove_team: FAILURE
+update_player_stats: SUCCESS
+get_top_scorer: SUCCESS, 7
+remove_team: FAILURE
+remove_player: SUCCESS
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+get_all_players: SUCCESS
+28
+138
+65
+2
+147
+1
+get_all_players: SUCCESS
+156
+25
+82
+22
+171
+169
+164
+190
+92
+33
+167
+52
+161
+109
+135
+16
+120
+157
+114
+11
+48
+152
+31
+128
+54
+3
+186
+4
+8
+24
+19
+102
+44
+98
+87
+79
+89
+remove_player: SUCCESS
+get_num_played_games: SUCCESS, 5647
+remove_team: FAILURE
+get_top_scorer: SUCCESS, 1
+remove_team: FAILURE
+update_player_stats: SUCCESS
+remove_team: FAILURE
+knockout_winner: INVALID_INPUT
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+play_match: FAILURE
+remove_team: FAILURE
+get_team_points: SUCCESS, 22618
+remove_player: SUCCESS
+get_num_played_games: SUCCESS, 1818
+remove_player: SUCCESS
+remove_team: FAILURE
+play_match: SUCCESS
+add_team: FAILURE
+get_all_players_count: SUCCESS, 37
+add_team: FAILURE
+update_player_stats: SUCCESS
+update_player_stats: SUCCESS
+get_closest_player: SUCCESS, 195
+add_team: FAILURE
+get_top_scorer: SUCCESS, 1
+get_all_players_count: SUCCESS, 8
+get_all_players: SUCCESS
+107
+153
+9
+160
+21
+17
+97
+add_team: FAILURE
+get_top_scorer: SUCCESS, 36
+add_player: FAILURE
+add_player: FAILURE
+remove_player: SUCCESS
+get_all_players_count: SUCCESS, 7
+add_player: FAILURE
+remove_team: FAILURE
+play_match: INVALID_INPUT
+get_team_points: SUCCESS, 14329
+remove_team: FAILURE
+remove_player: SUCCESS
+remove_team: FAILURE
+remove_team: FAILURE
+add_team: FAILURE
+add_player: FAILURE
+update_player_stats: SUCCESS
+update_player_stats: SUCCESS
+get_closest_player: SUCCESS, 49
+add_team: FAILURE
+get_team_points: SUCCESS, 3014
+update_player_stats: SUCCESS
+unite_teams: FAILURE
+knockout_winner: SUCCESS, 1
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+update_player_stats: SUCCESS
+get_top_scorer: SUCCESS, 36
+unite_teams: FAILURE
+add_team: FAILURE
+remove_player: SUCCESS
+get_all_players: SUCCESS
+130
+6
+163
+50
+194
+62
+196
+200
+add_team: FAILURE
+get_top_scorer: SUCCESS, 129
+get_closest_player: SUCCESS, 135
+update_player_stats: SUCCESS
+add_player: FAILURE
+update_player_stats: SUCCESS
+remove_team: FAILURE
+get_num_played_games: SUCCESS, 14378
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+get_all_players: SUCCESS
+155
+78
+30
+70
+94
+68
+41
+58
+83
+189
+13
+32
+146
+7
+remove_player: SUCCESS
+get_all_players_count: SUCCESS, 27
+get_team_points: SUCCESS, 5357
+play_match: INVALID_INPUT
+add_player: FAILURE
+remove_team: FAILURE
+get_team_points: SUCCESS, 5357
+get_num_played_games: SUCCESS, 8664
+get_all_players: SUCCESS
+108
+151
+93
+remove_team: FAILURE
+get_all_players: SUCCESS
+156
+25
+82
+22
+171
+169
+190
+92
+33
+167
+52
+161
+109
+135
+16
+120
+157
+11
+152
+31
+128
+54
+3
+48
+186
+4
+8
+24
+164
+19
+44
+98
+87
+79
+89
+102
+get_closest_player: SUCCESS, 195
+remove_player: SUCCESS
+get_top_scorer: SUCCESS, 36
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+remove_player: SUCCESS
+get_all_players_count: SUCCESS, 6
+get_all_players: SUCCESS
+100
+142
+162
+141
+86
+10
+148
+60
+23
+129
+get_num_played_games: SUCCESS, 14021
+unite_teams: FAILURE
+get_all_players_count: SUCCESS, 6
+play_match: FAILURE
+get_top_scorer: SUCCESS, 129
+play_match: FAILURE
+add_team: FAILURE
+get_all_players: SUCCESS
+108
+151
+93
+get_num_played_games: SUCCESS, 5648
+get_all_players: SUCCESS
+117
+154
+14
+91
+195
+110
+112
+179
+55
+get_closest_player: SUCCESS, 68
+get_all_players: SUCCESS
+108
+151
+93
+get_all_players: SUCCESS
+130
+6
+163
+50
+194
+62
+196
+200
+remove_team: FAILURE
+get_team_points: SUCCESS, 7432
+get_all_players_count: SUCCESS, 9
+remove_player: SUCCESS
+get_all_players: SUCCESS
+130
+6
+163
+50
+194
+62
+196
+200
+remove_player: SUCCESS
+add_player: FAILURE
+get_all_players_count: SUCCESS, 13
+get_num_played_games: SUCCESS, 19
+get_closest_player: SUCCESS, 76
+get_num_played_games: SUCCESS, 15500
+remove_team: FAILURE
+remove_player: SUCCESS
+knockout_winner: SUCCESS, 1
+knockout_winner: INVALID_INPUT
+knockout_winner: INVALID_INPUT
+knockout_winner: FAILURE
+knockout_winner: INVALID_INPUT
+get_team_points: SUCCESS, 3014
+get_all_players_count: SUCCESS, 8
+get_num_played_games: SUCCESS, 6294
+add_player: FAILURE
+remove_player: SUCCESS
+add_team: FAILURE
+get_closest_player: SUCCESS, 120
+remove_player: SUCCESS
+get_all_players_count: SUCCESS, 3
+add_player: FAILURE
+add_player: FAILURE
 remove_player: SUCCESS
 remove_player: SUCCESS
 remove_player: SUCCESS
@@ -2060,18 +2532,6 @@ remove_player: SUCCESS
 remove_player: SUCCESS
 remove_player: SUCCESS
 remove_player: SUCCESS
-remove_player: SUCCESS
-remove_player: SUCCESS
-remove_player: SUCCESS
-remove_player: SUCCESS
-remove_player: SUCCESS
-remove_player: SUCCESS
-remove_player: SUCCESS
-remove_player: SUCCESS
-remove_player: SUCCESS
-remove_team: SUCCESS
-remove_team: SUCCESS
-remove_team: SUCCESS
 remove_team: SUCCESS
 remove_team: SUCCESS
 remove_team: SUCCESS

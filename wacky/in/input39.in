@@ -1,1347 +1,1614 @@
-add_team 1 11109
-add_team 2 6164
-add_team 3 320
-add_team 4 11447
-add_team 5 819
-add_team 6 669
-add_team 7 2379
-add_team 8 6463
-add_team 9 6979
-add_team 10 3950
-add_team 11 4943
-add_team 12 8440
-add_team 13 3407
-add_team 14 4578
-add_team 15 8105
-add_team 16 7845
-add_team 17 5043
-add_team 18 6455
-add_team 19 5914
-add_team 20 7978
-add_player 1 5 10041 9583 9069 true
-add_player 2 5 4639 10131 10064 true
-add_player 3 3 11891 1835 11935 true
-add_player 4 15 2140 3955 11391 false
-add_player 5 14 11051 8230 2959 true
-add_player 6 15 10844 613 11040 true
-add_player 7 5 3887 11967 7684 false
-add_player 8 8 7222 3354 8218 true
-add_player 9 13 2352 4701 9473 true
-add_player 10 3 12243 537 7800 true
-add_player 11 11 3959 1222 11290 true
-add_player 12 11 359 3591 7177 true
-add_player 13 19 2229 503 2159 false
-add_player 14 7 5588 1572 7444 true
-add_player 15 17 3622 1038 3729 true
-add_player 16 20 2217 2907 11779 true
-add_player 17 11 8653 850 8740 true
-add_player 18 12 9179 1175 10907 true
-add_player 19 5 8132 2772 312 false
-add_player 20 15 6649 1885 5712 true
-add_player 21 11 11489 8889 11706 true
-add_player 22 15 10099 1929 5111 false
-add_player 23 12 8459 6388 2491 true
-add_player 24 17 7941 2492 10791 true
-add_player 25 4 2632 1899 3499 true
-add_player 26 14 8518 4009 2664 true
-add_player 27 12 2544 5328 12216 true
-add_player 28 3 12067 3059 2350 true
-add_player 29 14 2250 8522 9743 true
-add_player 30 18 3979 2886 9314 true
-add_player 31 17 1503 2501 10090 true
-add_player 32 13 11693 2148 6878 true
-add_player 33 4 3361 8349 2161 false
-add_player 34 8 7150 9081 2258 true
-add_player 35 19 720 11200 7616 true
-add_player 36 14 3446 8522 384 true
-add_player 37 17 8394 1987 3657 true
-add_player 38 10 5654 9514 2196 true
-add_player 39 13 3039 6166 6404 true
-add_player 40 3 5622 7023 8199 false
-add_player 41 7 5397 4598 5261 true
-add_player 42 5 3114 2197 10639 true
-add_player 43 16 9483 3262 8531 true
-add_player 44 19 6207 7840 2301 false
-add_player 45 15 8164 9926 8316 true
-add_player 46 20 9604 3097 3232 true
-add_player 47 13 10760 6580 5065 true
-add_player 48 12 5713 2753 6482 true
-add_player 49 20 8686 1532 11245 true
-add_player 50 18 8173 6169 10994 true
-add_player 51 16 7997 746 7556 false
-add_player 52 7 8018 1851 7482 true
-add_player 53 2 10326 1032 9669 true
-add_player 54 7 4561 31 8205 true
-add_player 55 4 11858 9707 7498 true
-add_player 56 7 280 9067 4934 true
-add_player 57 5 10437 2303 2522 true
-add_player 58 4 1599 865 6377 true
-add_player 59 1 10731 6773 9221 false
-add_player 60 2 11311 8455 11213 true
-add_player 61 12 200 2172 11877 true
-add_player 62 7 6928 5864 1313 true
-add_player 63 15 9092 12295 1769 false
-add_player 64 19 7524 371 9886 false
-add_player 65 9 3888 9711 7810 true
-add_player 66 16 6084 11343 565 true
-add_player 67 20 10564 5078 9160 false
-add_player 68 11 7207 4162 5888 true
-add_player 69 13 2833 1443 4803 true
-add_player 70 7 7688 7586 5561 true
-add_player 71 18 3072 9876 2975 true
-add_player 72 6 8462 4961 7444 true
-add_player 73 8 4098 6393 10157 false
-add_player 74 4 8992 10972 11099 true
-add_player 75 9 8196 6006 10531 true
-add_player 76 18 3744 2671 6816 true
-add_player 77 8 5276 4362 1219 true
-add_player 78 10 10717 2255 6775 true
-add_player 79 20 4514 9032 5795 true
-add_player 80 4 11309 8330 5750 false
-add_player 81 2 876 228 11949 true
-add_player 82 10 5033 5830 6063 true
-add_player 83 4 1570 7766 4442 true
-add_player 84 2 8327 8357 7065 true
-add_player 85 10 190 3290 9290 true
-add_player 86 8 2705 4245 1257 true
-add_player 87 8 2971 6545 9506 true
-add_player 88 10 1760 10848 9526 true
-add_player 89 15 3002 4867 6480 true
-add_player 90 2 12097 2231 9735 true
-add_player 91 20 57 11875 9900 true
-add_player 92 18 1486 9456 8450 false
-add_player 93 5 10194 1211 10306 true
-add_player 94 17 2245 8223 2989 false
-add_player 95 17 214 6620 5899 false
-add_player 96 2 38 3758 1634 true
-add_player 97 19 885 11486 11054 false
-add_player 98 16 4890 5972 5798 false
-add_player 99 15 12180 10283 6476 true
-add_player 100 16 6906 11186 7155 true
-add_player 101 4 11166 10747 3388 true
-add_player 102 6 1472 11868 8268 false
-add_player 103 9 9755 1629 3966 true
-add_player 104 4 6112 578 12128 true
-add_player 105 7 5682 5230 11888 false
-add_player 106 9 4807 6943 5244 true
-add_player 107 7 886 10078 1691 true
-add_player 108 3 11141 5118 9642 false
-add_player 109 5 183 5514 516 true
-add_player 110 12 11340 1562 11121 true
-add_player 111 18 42 9480 6635 true
-add_player 112 8 1609 8708 10115 true
-add_player 113 19 11560 8337 6281 true
-add_player 114 13 3846 7453 11680 true
-add_player 115 5 9476 11790 3329 true
-add_player 116 9 3436 42 5934 true
-add_player 117 11 8216 11348 10719 true
-add_player 118 2 11447 7687 11126 true
-add_player 119 16 11006 4576 11509 false
-add_player 120 20 5471 1188 4133 true
-add_player 121 1 1480 6204 9631 true
-add_player 122 18 7421 6434 5172 true
-add_player 123 1 1476 7788 12132 true
-add_player 124 4 3721 7006 2964 true
-add_player 125 5 8837 6565 9647 true
-add_player 126 14 7669 11714 12172 false
-add_player 127 9 9291 8861 4190 true
-add_player 128 10 7158 76 1282 false
-add_player 129 14 5442 8350 1570 true
-add_player 130 10 2072 2883 3944 true
-add_player 131 10 9656 281 8256 true
-add_player 132 14 5000 10363 11484 true
-add_player 133 3 260 2993 6511 true
-add_player 134 9 7161 2460 5295 true
-add_player 135 14 9281 2436 11340 true
-add_player 136 9 10179 4953 4383 false
-add_player 137 10 3627 10942 5124 true
-add_player 138 12 1154 6515 9125 false
-add_player 139 15 1517 4403 7065 true
-add_player 140 6 11655 9043 6329 true
-add_player 141 1 11694 8231 6064 true
-add_player 142 20 5185 10860 7561 true
-add_player 143 14 11124 4708 9026 true
-add_player 144 1 12097 3402 2175 true
-add_player 145 13 4885 4955 3940 true
-add_player 146 20 10020 9849 235 true
-add_player 147 19 4231 7707 7628 false
-add_player 148 19 3872 5475 10133 true
-add_player 149 11 10158 1204 6423 true
-add_player 150 11 6888 10409 4933 true
-add_player 151 2 5480 868 7509 true
-add_player 152 1 6407 8552 4367 true
-add_player 153 15 8717 5451 11470 true
-add_player 154 4 11937 244 5776 false
-add_player 155 7 5982 5110 1565 true
-add_player 156 14 4560 747 4636 true
-add_player 157 5 9910 1192 2637 true
-add_player 158 8 6078 3183 11223 true
-add_player 159 3 1226 6054 2501 true
-add_player 160 15 11903 7979 6123 true
-add_player 161 8 6067 7793 4160 true
-add_player 162 20 213 9218 10535 true
-add_player 163 5 10464 11178 6599 true
-add_player 164 6 7948 3914 5105 true
-add_player 165 12 10006 2459 11314 false
-add_player 166 10 2545 7415 9580 true
-add_player 167 20 10366 929 10205 true
-add_player 168 16 8017 11343 12268 true
-add_player 169 15 6088 9773 6275 true
-add_player 170 10 10630 8682 1613 true
-add_player 171 13 5341 12284 1501 false
-add_player 172 7 11194 4275 847 true
-add_player 173 15 7843 3518 3588 true
-add_player 174 13 8034 1210 8108 true
-add_player 175 10 12175 10991 4487 true
-add_player 176 12 4293 3013 6978 true
-add_player 177 20 5405 8660 7335 true
-add_player 178 15 8988 3825 11212 true
-add_player 179 11 6661 11499 248 false
-add_player 180 3 212 6357 9065 false
-add_player 181 9 7263 4688 9786 true
-add_player 182 7 5147 4904 11859 false
-add_player 183 15 5877 4208 12156 true
-add_player 184 6 12012 1899 4253 true
-add_player 185 13 742 7806 241 true
-add_player 186 3 511 314 6143 true
-add_player 187 9 1284 3253 2548 true
-add_player 188 11 9712 3911 7550 true
-add_player 189 8 2659 1303 6636 true
-add_player 190 6 2724 3577 5435 false
-add_player 191 15 7301 8236 5286 false
-add_player 192 3 4540 7716 2652 true
-add_player 193 2 8234 9948 1665 true
-add_player 194 10 3242 441 591 true
-add_player 195 15 9819 7158 11696 true
-add_player 196 2 8954 11153 8129 true
-add_player 197 17 10502 4889 10096 true
-add_player 198 6 7994 5116 3907 true
-add_player 199 3 6226 5575 5150 false
-add_player 200 11 6128 6332 11145 true
-get_all_players 12
-get_all_players_count 18
-play_match 5 20
-get_all_players 1
-remove_player 49
-get_all_players_count 11
-knockout_winner 4 5
-add_team 18 10049
-add_team 6 245
-play_match 9 14
-knockout_winner 16 18
-add_player 66 17 3821 9051 1619 true
-play_match 19 4
-remove_player 24
-play_match 12 15
-add_player 117 17 9475 3243 8200 true
-update_player_stats 166 4362 2078 1266
-get_closest_player 87 8
-get_top_scorer 14
-play_match 4 6
-knockout_winner 16 19
-play_match 9 4
-add_player 112 1 3791 3640 10534 true
-remove_player 46
-get_num_played_games 148
-get_closest_player 121 1
-get_closest_player 72 6
-unite_teams 13 16 6
-add_player 130 14 1226 4594 8567 true
-remove_team 11
-get_closest_player 188 11
-play_match 2 9
-unite_teams 4 19 20
-get_num_played_games 100
-unite_teams 2 18 9
-add_player 67 1 404 8243 7934 true
-get_all_players_count 9
-play_match 6 1
-add_player 155 3 10207 5086 3983 false
-update_player_stats 200 11713 1386 1500
-add_team 16 5767
-remove_player 62
-update_player_stats 199 3092 7229 4303
-get_all_players 18
+add_team 1 11825
+add_team 2 1183
+add_team 3 9460
+add_team 4 3834
+add_team 5 4720
+add_team 6 8816
+add_team 7 7624
+add_team 8 7617
+add_team 9 7029
+add_team 10 2994
+add_team 11 7956
+add_team 12 2939
+add_team 13 2918
+add_team 14 529
+add_team 15 4301
+add_team 16 245
+add_team 17 3934
+add_team 18 1542
+add_team 19 8094
+add_team 20 6021
+add_player 1 7 10005 3319 3901 true
+add_player 2 16 6022 11459 8317 true
+add_player 3 7 742 9540 10864 true
+add_player 4 3 1635 1249 8062 true
+add_player 5 10 7100 964 5974 true
+add_player 6 10 2654 5262 11425 true
+add_player 7 9 10543 6708 9234 true
+add_player 8 1 12151 5422 3208 true
+add_player 9 5 1064 5422 8921 true
+add_player 10 20 10172 3185 4968 true
+add_player 11 2 3097 156 5854 true
+add_player 12 7 4121 11585 4984 true
+add_player 13 8 9679 6607 6349 true
+add_player 14 12 3869 9505 6522 true
+add_player 15 10 2443 4813 8467 true
+add_player 16 19 5828 11625 8242 false
+add_player 17 7 13 10378 10663 true
+add_player 18 19 11979 6512 316 true
+add_player 19 10 9553 10731 10540 true
+add_player 20 1 7198 7018 282 false
+add_player 21 13 8302 2154 6035 true
+add_player 22 17 6995 6133 6785 false
+add_player 23 7 7936 5398 3537 true
+add_player 24 3 11935 1738 10724 true
+add_player 25 17 4705 2677 4924 true
+add_player 26 16 6638 10643 11542 false
+add_player 27 9 4567 4972 11990 false
+add_player 28 5 9498 1686 4095 true
+add_player 29 18 8858 2766 4728 true
+add_player 30 8 11343 9837 5936 true
+add_player 31 3 2490 10390 8709 true
+add_player 32 9 340 9388 1276 true
+add_player 33 11 6238 1767 11847 true
+add_player 34 20 2004 6837 4081 true
+add_player 35 10 2755 10435 6276 true
+add_player 36 12 9301 7163 8667 true
+add_player 37 3 1628 10617 2732 true
+add_player 38 14 6223 7673 1225 true
+add_player 39 9 6798 1852 652 true
+add_player 40 2 3083 3194 6022 true
+add_player 41 2 2093 6484 9060 true
+add_player 42 13 6320 3130 3462 true
+add_player 43 10 10528 7920 3350 true
+add_player 44 12 342 2033 3810 true
+add_player 45 8 6395 6819 1747 true
+add_player 46 6 4947 7283 3921 true
+add_player 47 12 4301 7791 9306 true
+add_player 48 4 9050 8056 1980 true
+add_player 49 2 7238 8595 4645 true
+add_player 50 15 1252 8971 10764 true
+add_player 51 5 7732 11069 7169 true
+add_player 52 9 7026 4970 4603 true
+add_player 53 2 10097 331 552 true
+add_player 54 4 9910 1582 4379 true
+add_player 55 13 2867 11084 112 true
+add_player 56 7 9237 7330 5563 true
+add_player 57 2 718 5797 4538 true
+add_player 58 14 9476 3373 10090 true
+add_player 59 17 5070 11327 4782 true
+add_player 60 12 5562 6833 12279 false
+add_player 61 9 6017 11086 3226 true
+add_player 62 18 4320 8674 1052 true
+add_player 63 2 5354 2038 9250 true
+add_player 64 14 11572 10041 1886 true
+add_player 65 2 11505 4476 7886 true
+add_player 66 8 6995 24 8235 true
+add_player 67 18 2132 684 10883 true
+add_player 68 15 6431 9546 5561 false
+add_player 69 12 3747 3988 9198 true
+add_player 70 17 3049 11107 3082 true
+add_player 71 12 9685 3888 6139 true
+add_player 72 12 974 6034 2882 true
+add_player 73 20 7559 6165 455 false
+add_player 74 19 8064 2124 7723 true
+add_player 75 19 4000 7848 4913 true
+add_player 76 3 9477 1029 11135 true
+add_player 77 16 3906 7206 10724 true
+add_player 78 2 7610 122 11467 true
+add_player 79 12 1863 6138 3506 true
+add_player 80 6 10843 9225 8179 true
+add_player 81 11 9680 3841 8938 true
+add_player 82 3 11359 3149 6775 true
+add_player 83 3 9529 6325 1185 false
+add_player 84 2 589 8511 11449 false
+add_player 85 20 743 6100 4847 true
+add_player 86 18 377 4297 11495 true
+add_player 87 5 3294 3091 7133 true
+add_player 88 14 6912 11601 2965 false
+add_player 89 18 7331 7033 8593 true
+add_player 90 4 11372 4433 1621 true
+add_player 91 14 3705 8435 108 true
+add_player 92 10 9405 4597 8043 true
+add_player 93 5 8243 7571 12086 true
+add_player 94 8 3586 2449 8028 true
+add_player 95 13 7855 152 2309 true
+add_player 96 18 10258 10338 6168 true
+add_player 97 6 5388 6110 7528 false
+add_player 98 16 10528 4273 11013 true
+add_player 99 4 2427 7659 9344 true
+add_player 100 16 9183 1799 10464 true
+add_player 101 11 345 9780 3252 false
+add_player 102 15 7346 357 3995 true
+add_player 103 19 8635 1842 7329 true
+add_player 104 14 4339 8962 11551 true
+add_player 105 13 10728 4619 4520 true
+add_player 106 12 9575 1866 1807 true
+add_player 107 13 12246 7324 8228 false
+add_player 108 7 2567 547 3269 false
+add_player 109 13 4654 5115 5739 true
+add_player 110 6 6730 1990 10545 true
+add_player 111 18 3891 8138 5575 true
+add_player 112 5 3290 7365 5325 true
+add_player 113 20 4290 7718 8556 true
+add_player 114 13 2384 7522 3556 false
+add_player 115 15 11011 1783 9321 false
+add_player 116 12 143 6451 4852 false
+add_player 117 6 2225 3808 7836 true
+add_player 118 16 11616 6398 82 true
+add_player 119 17 12124 12094 4040 true
+add_player 120 19 37 12186 8138 true
+add_player 121 19 7372 1933 3785 true
+add_player 122 10 8262 6473 6997 true
+add_player 123 7 38 11448 572 true
+add_player 124 8 2967 8599 527 true
+add_player 125 14 7979 6212 11090 true
+add_player 126 7 7025 1098 9028 false
+add_player 127 7 5033 8933 8261 true
+add_player 128 16 7139 2470 10092 false
+add_player 129 15 8230 692 3273 true
+add_player 130 14 7031 2988 5304 true
+add_player 131 16 2050 7296 8656 true
+add_player 132 20 8856 4813 11125 true
+add_player 133 15 1880 11452 12175 true
+add_player 134 3 4353 10563 7683 true
+add_player 135 19 265 9329 11225 true
+add_player 136 16 3083 2311 10566 true
+add_player 137 17 9862 8710 6675 true
+add_player 138 7 347 10519 2754 true
+add_player 139 18 1159 11932 1352 true
+add_player 140 13 2940 11631 5202 true
+add_player 141 17 6470 3605 8585 false
+add_player 142 13 4543 7040 2967 true
+add_player 143 13 7333 241 1609 false
+add_player 144 18 2963 3935 4521 true
+add_player 145 2 4481 10303 4503 true
+add_player 146 19 4815 11315 2588 true
+add_player 147 14 804 6220 4447 true
+add_player 148 10 6457 1888 11817 true
+add_player 149 14 8507 4662 8233 false
+add_player 150 6 10899 10583 4814 false
+add_player 151 8 11896 8480 6409 true
+add_player 152 8 3089 10607 7464 true
+add_player 153 2 6849 9670 7749 true
+add_player 154 13 7574 3994 5006 true
+add_player 155 8 10069 2841 11784 true
+add_player 156 5 11637 11241 1486 true
+add_player 157 18 6556 10112 3918 true
+add_player 158 17 960 6217 1438 true
+add_player 159 16 5750 5447 11191 true
+add_player 160 6 3026 8262 1801 true
+add_player 161 18 1323 774 4860 true
+add_player 162 5 3528 3901 8327 true
+add_player 163 9 9502 10261 3016 true
+add_player 164 15 6836 4537 11229 true
+add_player 165 7 2849 11272 4711 true
+add_player 166 11 214 8814 5796 true
+add_player 167 17 5528 1238 1345 true
+add_player 168 5 9584 10647 5791 true
+add_player 169 7 2758 5103 9581 true
+add_player 170 10 2193 8854 7090 true
+add_player 171 3 5166 62 7688 true
+add_player 172 15 8834 8028 1117 true
+add_player 173 5 9664 10464 679 true
+add_player 174 3 9803 1552 11250 false
+add_player 175 17 11454 7655 5983 true
+add_player 176 7 4351 3781 10831 true
+add_player 177 20 10130 11692 12051 true
+add_player 178 11 4597 4877 1209 true
+add_player 179 18 9175 11983 11053 true
+add_player 180 4 10552 6566 6581 true
+add_player 181 15 2081 10916 12313 true
+add_player 182 10 1062 3740 12113 true
+add_player 183 4 5671 9481 6198 true
+add_player 184 8 9943 8340 11844 false
+add_player 185 16 9988 8462 10266 true
+add_player 186 5 9902 5986 7480 false
+add_player 187 3 11631 4291 1556 true
+add_player 188 7 9756 1505 11155 true
+add_player 189 14 10209 5405 11200 true
+add_player 190 7 8771 7344 12247 true
+add_player 191 3 2486 334 6845 true
+add_player 192 6 7665 12147 6088 false
+add_player 193 6 10518 11759 4665 true
+add_player 194 14 11355 3210 10122 true
+add_player 195 2 444 1700 7279 true
+add_player 196 4 11918 5328 10256 true
+add_player 197 5 753 6049 7933 true
+add_player 198 10 502 2579 3488 true
+add_player 199 6 1456 2265 1192 true
+add_player 200 6 7855 5492 1814 true
+get_num_played_games 12
+get_closest_player 27 9
 remove_team 13
-add_team 11 5694
-add_team 6 8119
-get_team_points 6
-get_team_points 17
-add_player 137 20 6985 7417 2556 true
-get_all_players 1
-get_closest_player 177 20
-get_top_scorer 10
-get_team_points 1
-get_all_players 6
-get_all_players_count 16
-get_top_scorer 11
-get_closest_player 79 20
-knockout_winner 4 14
-get_all_players_count 14
-get_closest_player 83 4
-knockout_winner 17 19
-add_team 9 9197
-add_team 1 6033
-play_match 6 2
-get_closest_player 141 1
-get_all_players 6
-knockout_winner 5 13
-remove_player 148
-get_all_players 19
-add_team 16 9493
-knockout_winner 19 19
-remove_player 86
-get_all_players_count 15
-remove_player 38
-play_match 12 4
-add_team 12 4353
-get_num_played_games 177
-get_closest_player 172 7
-remove_player 118
-play_match 4 15
-add_team 1 8117
-get_num_played_games 69
-knockout_winner 4 6
-get_closest_player 200 11
-get_all_players_count 20
-get_all_players_count 6
-add_player 3 10 7412 7208 11809 true
-get_closest_player 181 9
-play_match 17 11
-play_match 14 6
-remove_player 138
-knockout_winner 12 17
-get_closest_player 169 15
-get_num_played_games 137
-get_top_scorer 8
-remove_player 106
-get_all_players 1
-remove_player 146
-add_team 14 5861
-get_all_players_count 8
-get_closest_player 93 5
-get_all_players_count 14
-knockout_winner 5 5
-get_num_played_games 61
-add_player 183 4 5100 3253 8775 true
-add_team 5 4013
-add_team 8 7666
-remove_player 135
-get_all_players 13
-get_num_played_games 108
-get_num_played_games 91
-update_player_stats 10 5367 10530 10608
-unite_teams 5 5 9
-add_team 14 10576
-update_player_stats 42 3664 1977 318
-get_top_scorer 8
-get_closest_player 185 13
-add_player 61 11 8062 1262 37 true
-add_team 20 10285
-remove_player 56
-get_all_players 2
-remove_player 67
-add_team 20 1489
-get_team_points 13
-get_all_players_count 2
-add_team 2 2138
-play_match 18 19
-get_num_played_games 156
-get_all_players_count 15
-get_top_scorer 19
-play_match 17 7
-add_player 110 19 6210 2403 6544 true
-get_num_played_games 82
-remove_team 15
-remove_team 16
-knockout_winner 6 16
-get_closest_player 120 20
-knockout_winner 7 7
-unite_teams 7 13 5
-remove_team 10
-get_num_played_games 108
-get_top_scorer 7
-get_team_points 3
-remove_player 198
-update_player_stats 123 11026 6191 7203
-add_player 84 13 480 5191 6855 true
-get_num_played_games 175
-remove_player 66
-knockout_winner 15 19
-play_match 20 7
-get_closest_player 167 20
-remove_player 125
-get_all_players 4
-get_all_players 10
-play_match 14 16
-add_player 126 9 9254 2808 5779 false
-get_all_players 7
-get_top_scorer 13
-get_all_players_count 1
-update_player_stats 18 6854 381 3848
-add_player 119 17 8778 6025 1964 true
-get_num_played_games 195
-knockout_winner 6 7
-remove_player 53
-get_num_played_games 61
-get_closest_player 33 4
-get_all_players_count 11
-knockout_winner 7 19
-get_all_players 5
-play_match 12 14
-get_all_players 1
-get_num_played_games 74
-unite_teams 6 10 3
-get_all_players_count 5
-get_num_played_games 19
-add_team 13 3816
-get_num_played_games 88
-add_player 93 20 10488 2190 10644 true
-add_team 10 7717
-update_player_stats 121 8614 255 10679
-add_player 158 7 264 2836 2006 true
-get_all_players 12
-get_team_points 6
-add_team 6 9229
-get_team_points 6
-get_num_played_games 141
-play_match 14 16
-add_team 14 8185
-get_all_players 14
-play_match 6 3
-get_team_points 13
-knockout_winner 9 15
-add_team 13 2615
-unite_teams 6 15 2
-play_match 9 19
-add_team 15 6084
-get_all_players_count 1
-get_all_players 7
-play_match 17 13
-remove_team 6
-get_team_points 2
-get_num_played_games 128
-remove_player 28
-get_closest_player 166 10
-get_all_players_count 14
-get_closest_player 176 12
-get_num_played_games 145
-knockout_winner 7 13
-remove_team 14
-remove_player 113
-remove_player 144
-get_all_players 17
 play_match 1 4
-get_all_players 4
-remove_team 17
-remove_player 137
-add_team 4 3056
-add_team 6 8319
-unite_teams 4 4 17
-get_top_scorer 2
-get_all_players_count 9
-get_num_played_games 51
-play_match 7 12
-get_num_played_games 192
-knockout_winner 7 20
-get_closest_player 191 15
-get_all_players 11
-unite_teams 16 3 7
-get_team_points 18
-add_team 1 4985
-remove_team 3
-get_closest_player 126 14
-remove_player 7
-remove_team 9
-update_player_stats 75 6856 9238 3760
-get_all_players 17
-remove_player 36
-remove_player 117
-unite_teams 12 16 17
-get_closest_player 199 3
-get_closest_player 178 15
-get_team_points 10
-get_num_played_games 55
-unite_teams 13 1 16
-get_closest_player 59 1
-get_top_scorer 16
-add_team 2 3319
-add_player 192 19 5869 10602 5255 true
-add_player 143 10 8062 11895 6994 true
-get_team_points 4
-update_player_stats 88 11936 9724 8179
-remove_player 114
-get_closest_player 10 3
-play_match 2 12
-unite_teams 6 15 3
-update_player_stats 100 4611 8849 8476
-add_team 15 7684
-get_all_players 1
-get_closest_player 1 5
-get_team_points 10
-remove_player 152
-get_all_players 17
-get_all_players_count 11
-add_player 81 5 6621 8327 5522 true
-get_all_players 10
-remove_player 29
-get_num_played_games 156
-remove_player 31
-get_num_played_games 164
-get_all_players_count 12
-add_player 68 6 170 6145 8828 true
-remove_player 83
-unite_teams 11 1 9
-update_player_stats 112 8050 4771 8636
-remove_player 15
-get_team_points 8
-remove_player 79
-get_top_scorer 15
-get_all_players 19
-get_num_played_games 69
-get_top_scorer 16
-get_all_players_count 11
-add_player 103 3 11038 11319 10024 true
-remove_team 11
-get_top_scorer 16
-remove_player 160
-get_num_played_games 161
-get_closest_player 123 1
-get_team_points 8
-add_team 12 50
-unite_teams 6 9 8
-get_all_players_count 7
-get_team_points 15
-update_player_stats 197 8402 1361 598
-remove_team 9
-add_player 8 6 4044 6864 10914 true
-get_all_players 12
-add_team 18 10677
-remove_player 110
-add_player 178 20 2926 11376 3642 true
-add_team 8 6640
-play_match 7 2
-get_all_players 7
-unite_teams 15 11 4
-add_player 16 9 6796 5191 5988 true
-add_team 3 5175
-get_closest_player 193 2
-get_top_scorer 3
-get_closest_player 182 7
-add_player 169 9 445 11037 5437 true
-play_match 8 1
-get_num_played_games 80
-remove_player 132
-add_team 14 8142
-remove_player 184
-update_player_stats 75 3165 8004 2828
-knockout_winner 17 18
-update_player_stats 51 7909 10025 10570
-update_player_stats 100 11251 8420 5583
-knockout_winner 7 7
-unite_teams 1 3 19
-get_closest_player 23 12
-get_closest_player 98 16
-knockout_winner 8 10
-get_num_played_games 199
-update_player_stats 200 11679 32 8303
-play_match 11 2
-get_num_played_games 27
-unite_teams 6 15 20
-update_player_stats 182 2098 6014 1247
-add_team 17 896
-get_team_points 2
-add_team 16 9562
-unite_teams 12 16 16
-get_top_scorer 6
-get_closest_player 58 4
-unite_teams 13 3 19
-add_team 13 8732
-remove_player 93
-play_match 10 2
-play_match 6 13
-get_num_played_games 162
-unite_teams 6 6 13
-unite_teams 7 15 6
-update_player_stats 120 5602 3027 9675
-unite_teams 14 10 8
-get_closest_player 96 2
-get_num_played_games 156
-add_team 5 3569
-play_match 9 9
-get_top_scorer 1
-get_closest_player 165 16
-remove_player 9
-get_all_players_count 3
-play_match 3 5
-unite_teams 4 8 19
-get_all_players_count 14
-get_team_points 8
-unite_teams 10 10 1
-get_all_players 8
-get_all_players_count 19
-get_closest_player 115 5
-add_team 8 6386
-get_num_played_games 143
-get_team_points 14
-get_top_scorer 8
-unite_teams 18 18 7
-remove_player 129
-play_match 11 9
-play_match 8 14
-add_team 17 3630
-remove_team 11
-get_num_played_games 22
-get_top_scorer 11
-play_match 17 4
-get_team_points 18
-remove_team 9
-add_player 166 5 2416 3536 12343 false
-get_closest_player 32 13
-remove_player 32
-knockout_winner 1 18
-add_team 5 4457
-update_player_stats 187 6954 10296 563
-get_num_played_games 111
-update_player_stats 162 10260 8380 5883
-add_player 157 19 9775 2007 4654 true
-knockout_winner 11 13
-remove_team 8
-update_player_stats 76 8200 397 6558
-remove_team 3
-add_player 195 17 11342 9935 3449 true
-get_num_played_games 169
-update_player_stats 39 7515 2599 5830
-get_all_players 8
-add_team 9 2457
-play_match 20 13
-get_team_points 10
-unite_teams 9 14 9
-remove_player 185
-play_match 7 3
-get_num_played_games 189
-get_team_points 9
-knockout_winner 2 6
-get_closest_player 190 6
-get_all_players_count 10
-get_team_points 13
-get_all_players_count 11
-add_team 8 3592
-get_top_scorer 17
-get_all_players_count 7
-get_all_players_count 20
-remove_player 122
-update_player_stats 73 1894 5150 4408
-add_team 19 1718
-get_team_points 13
-update_player_stats 41 3301 5794 5843
-update_player_stats 5 9651 9946 5700
-add_player 119 20 4445 3596 7696 true
-play_match 15 7
-get_all_players_count 18
-remove_team 20
-get_top_scorer 2
-update_player_stats 27 475 12099 103
-get_top_scorer 5
-add_player 120 11 8247 6126 9694 true
-knockout_winner 10 20
-get_num_played_games 179
-get_all_players 4
-get_all_players_count 7
-add_team 11 1481
-get_closest_player 17 11
-get_team_points 4
-get_all_players 16
-get_closest_player 150 11
-play_match 2 17
-get_closest_player 101 4
-get_closest_player 51 16
-get_num_played_games 127
-get_all_players_count 18
-get_num_played_games 25
-remove_player 179
-play_match 6 7
-get_all_players 1
-get_closest_player 14 7
-update_player_stats 154 4018 2793 123
-unite_teams 1 9 18
-knockout_winner 1 4
-add_player 64 16 6117 413 7702 true
-get_all_players_count 17
-get_top_scorer 1
-get_team_points 4
-knockout_winner 2 3
-get_num_played_games 63
-update_player_stats 103 6082 290 1196
-get_team_points 8
-get_closest_player 109 5
-add_player 134 3 108 829 6474 true
-play_match 3 13
-get_num_played_games 195
-knockout_winner 10 10
-get_top_scorer 18
-get_team_points 11
-get_closest_player 154 4
-knockout_winner 3 16
-get_all_players 10
-add_team 6 2215
-add_player 12 3 5939 10224 1951 true
-add_team 1 359
-get_num_played_games 134
-add_team 10 5133
-get_all_players 2
-get_num_played_games 139
-add_player 97 18 1792 11345 11673 false
-unite_teams 3 15 20
-get_num_played_games 60
-get_team_points 5
-knockout_winner 10 19
-add_team 13 7492
-update_player_stats 158 9170 7242 821
-play_match 3 1
-remove_team 10
-get_top_scorer 16
-unite_teams 16 9 1
-update_player_stats 151 7781 2738 8840
-play_match 1 17
-remove_team 6
-get_top_scorer 6
-unite_teams 19 7 3
-remove_player 192
-remove_player 6
-play_match 1 3
-add_player 55 3 7937 6201 6310 true
-get_all_players_count 6
-get_all_players_count 20
-get_top_scorer 11
-play_match 7 17
-get_team_points 19
-get_top_scorer 1
-unite_teams 1 3 20
-unite_teams 1 13 18
-get_num_played_games 8
-get_all_players 16
-get_all_players_count 18
-knockout_winner 15 18
-get_num_played_games 112
-get_all_players_count 1
-knockout_winner 2 7
-get_team_points 7
-get_num_played_games 155
-get_all_players 10
-update_player_stats 140 7369 2431 4597
-unite_teams 2 13 20
-remove_team 7
-get_all_players_count 8
-get_top_scorer 16
-get_closest_player 142 20
-update_player_stats 107 11233 6331 2311
-get_closest_player 40 3
-remove_player 91
-get_all_players 17
-play_match 1 4
-unite_teams 1 10 1
-get_top_scorer 11
-add_team 18 8031
-add_team 15 7219
-get_top_scorer 17
-get_closest_player 14 7
-knockout_winner 11 1
-unite_teams 9 1 13
-get_top_scorer 20
-remove_team 16
-add_player 88 6 11750 1067 5589 true
-remove_player 145
-knockout_winner 6 1
-add_player 191 9 680 4769 4518 true
-get_all_players 18
-get_all_players 2
-update_player_stats 99 9840 6681 2133
-remove_team 17
-get_num_played_games 161
-get_closest_player 108 3
-remove_team 16
-get_closest_player 74 4
-get_all_players 17
-get_all_players_count 19
-get_all_players_count 7
-get_closest_player 175 1
-get_num_played_games 141
-get_all_players_count 7
-get_num_played_games 99
-unite_teams 17 4 15
-get_all_players_count 17
-remove_player 42
-get_all_players_count 17
-remove_player 101
-get_closest_player 134 9
-play_match 1 18
-update_player_stats 182 621 5715 3391
-get_team_points 19
-remove_player 98
-knockout_winner 7 13
-get_team_points 11
-add_player 191 2 9915 6799 3285 true
-knockout_winner 9 1
-remove_team 2
-knockout_winner 17 19
-get_top_scorer 19
-get_all_players_count 16
-remove_team 4
-knockout_winner 9 1
-get_closest_player 153 15
-get_all_players_count 13
-unite_teams 2 7 15
-add_team 9 439
-knockout_winner 3 13
-get_all_players 17
-remove_team 11
-get_all_players 18
-get_all_players 4
-remove_player 44
-get_top_scorer 15
-unite_teams 3 16 13
-remove_team 15
-add_player 112 17 10613 3695 68 true
-remove_team 6
-unite_teams 8 3 4
-get_all_players_count 6
-unite_teams 18 4 4
-add_player 105 8 10052 6156 3118 true
-remove_player 196
-play_match 13 7
-play_match 3 19
-get_closest_player 78 1
-knockout_winner 5 4
-get_closest_player 150 11
-get_closest_player 194 1
-get_top_scorer 17
-add_player 120 7 3625 7820 10142 true
-remove_player 1
-knockout_winner 8 1
-update_player_stats 74 10580 5724 10002
-knockout_winner 8 8
-get_all_players 2
-add_team 7 3726
-add_team 13 9102
-add_player 92 2 9409 10533 5821 true
-get_team_points 20
-get_closest_player 45 15
-get_team_points 4
-get_top_scorer 3
-get_all_players_count 19
-get_team_points 15
-get_all_players 4
-get_all_players 1
-remove_player 60
-get_all_players_count 5
-remove_team 9
-get_top_scorer 5
-remove_team 20
-get_all_players 4
-play_match 11 1
-get_all_players 17
-unite_teams 8 15 1
-update_player_stats 108 2482 8701 9029
-get_top_scorer 11
-get_closest_player 21 11
-remove_team 16
-get_top_scorer 5
-get_all_players 19
-unite_teams 1 7 4
-get_team_points 8
+add_team 18 11900
+add_team 13 9682
 remove_player 133
-get_all_players_count 8
-remove_team 6
+get_num_played_games 91
+get_all_players 19
+get_num_played_games 122
+get_num_played_games 122
+play_match 11 1
 get_top_scorer 11
-add_player 69 2 11251 7163 5384 true
-knockout_winner 13 4
-unite_teams 1 3 20
-get_team_points 5
-remove_team 2
-add_team 16 6108
-remove_player 68
-knockout_winner 6 8
-get_top_scorer 7
-get_num_played_games 173
-get_team_points 8
-get_team_points 7
-get_all_players 7
-unite_teams 1 20 13
-update_player_stats 96 8976 12004 9002
-update_player_stats 104 6912 11575 8160
-get_closest_player 105 7
-update_player_stats 178 10968 4670 3854
-get_top_scorer 8
-get_num_played_games 159
+update_player_stats 83 3478 300 860
+remove_player 199
+add_player 192 16 4424 874 10545 true
+add_team 1 10057
+knockout_winner 14 19
+knockout_winner 9 24
+knockout_winner 9 14
+knockout_winner 19 24
+knockout_winner 19 14
+add_team 17 5106
+get_all_players 8
+get_closest_player 57 2
+update_player_stats 115 7630 3025 4344
+get_all_players_count 19
+update_player_stats 61 2215 8679 6395
+play_match 20 20
 get_team_points 13
-knockout_winner 4 4
-get_top_scorer 16
-remove_player 180
-get_team_points 3
-get_num_played_games 71
-update_player_stats 26 9538 728 12031
-add_team 6 9908
-add_team 17 2901
-remove_player 78
-get_all_players_count 13
-remove_player 100
-get_num_played_games 120
-remove_player 178
-get_num_played_games 141
-get_all_players_count 6
-get_team_points 2
-get_top_scorer 7
-get_all_players 8
-get_all_players_count 3
-remove_team 15
-get_team_points 17
-get_top_scorer 9
-knockout_winner 9 4
-knockout_winner 17 4
-add_player 71 13 6727 6661 1270 false
-get_team_points 15
-get_all_players_count 19
-get_all_players 11
-knockout_winner 2 16
-knockout_winner 9 9
-get_all_players 16
-update_player_stats 18 2216 3561 8495
-remove_team 1
-get_closest_player 186 3
-remove_team 17
-add_team 11 1081
-get_team_points 5
-add_team 9 4147
-add_player 153 1 2278 530 9502 true
-unite_teams 1 6 11
-get_top_scorer 5
-remove_team 17
-remove_player 131
-add_team 9 121
-get_all_players_count 17
-remove_team 9
-add_team 8 7852
-update_player_stats 76 5326 8033 5240
-get_num_played_games 193
-get_all_players_count 6
-unite_teams 9 4 5
-get_closest_player 105 7
-get_top_scorer 4
-get_all_players_count 1
-get_all_players_count 8
+get_num_played_games 176
+get_all_players_count 15
+get_top_scorer 20
+get_closest_player 20 1
+update_player_stats 181 10681 11127 6108
+add_player 200 12 5523 1944 156 true
+knockout_winner 17 17
+knockout_winner 12 22
+knockout_winner 12 12
+knockout_winner 22 22
+knockout_winner 22 12
+get_closest_player 174 3
 remove_team 11
-update_player_stats 10 10776 411 11422
-knockout_winner 4 4
-remove_player 51
-knockout_winner 3 15
+remove_team 3
+play_match 13 20
+get_team_points 7
+unite_teams 2 14 9
+get_closest_player 88 14
+remove_player 121
 get_all_players_count 9
-add_team 13 9380
-remove_team 4
-get_top_scorer 8
-play_match 15 1
-remove_player 48
-remove_team 16
-remove_team 20
-update_player_stats 182 11401 6207 1562
-play_match 15 20
-get_all_players 9
-add_team 4 9303
-unite_teams 1 20 19
-remove_team 16
-remove_player 84
-remove_player 34
-knockout_winner 19 1
-add_team 5 6337
-knockout_winner 16 4
-get_team_points 11
-add_player 25 5 3356 4910 11236 true
-update_player_stats 112 3710 1055 1996
-remove_team 16
-add_player 25 4 7466 9453 4049 true
-remove_team 4
-get_team_points 20
-get_team_points 8
-unite_teams 6 16 2
-remove_team 1
-get_num_played_games 142
-add_team 13 889
-get_all_players_count 19
-get_team_points 19
-add_team 2 6581
-get_all_players 7
-remove_player 182
-remove_player 65
-get_all_players_count 7
-get_top_scorer 15
-unite_teams 8 17 19
-add_team 2 11201
-get_all_players_count 15
-knockout_winner 7 20
-get_all_players_count 2
-update_player_stats 111 6220 8847 7240
-get_team_points 11
-get_all_players 2
-update_player_stats 17 4867 11323 7448
-remove_player 59
-play_match 17 2
-get_top_scorer 6
-add_player 199 17 80 2098 10372 true
-play_match 2 16
-play_match 4 3
-play_match 2 6
-play_match 2 19
-get_closest_player 52 7
-get_all_players_count 13
-get_all_players_count 11
-play_match 8 5
-knockout_winner 8 11
-remove_team 16
-remove_team 17
-add_player 14 13 8777 5927 3718 true
-update_player_stats 199 4480 892 11713
-get_team_points 20
-unite_teams 9 3 9
-get_num_played_games 143
-knockout_winner 16 9
-get_closest_player 158 8
-add_team 5 12207
-add_player 161 1 10786 8443 2098 true
-update_player_stats 105 7905 7368 4601
-add_player 162 11 5218 10607 8553 true
-unite_teams 2 9 6
-get_team_points 11
-get_team_points 9
-update_player_stats 142 11923 5665 11195
-add_team 6 2614
-get_top_scorer 19
-get_all_players_count 11
-update_player_stats 40 5591 10586 4964
-play_match 13 9
-add_player 5 7 8261 2861 9190 false
-get_all_players_count 20
-add_player 107 5 2011 8253 216 true
-update_player_stats 147 4504 11572 10471
-play_match 11 8
-knockout_winner 1 1
-get_team_points 8
-knockout_winner 2 1
-unite_teams 6 19 20
-get_num_played_games 22
-unite_teams 16 7 20
-play_match 13 6
-get_all_players_count 11
-add_team 7 10625
+play_match 12 18
+add_team 13 8921
+get_top_scorer 18
+remove_team 6
+get_closest_player 116 12
+get_closest_player 55 13
+remove_player 192
+get_closest_player 20 1
+knockout_winner 18 20
+knockout_winner 13 25
+knockout_winner 13 15
+knockout_winner 23 25
+knockout_winner 23 15
+get_team_points 14
+unite_teams 5 3 12
+play_match 7 17
+remove_player 41
+add_player 123 5 9175 2770 4498 true
+add_player 127 8 387 10995 6761 true
+add_team 12 5302
 get_top_scorer 9
-update_player_stats 181 10745 6179 11944
-play_match 6 8
+get_all_players_count 20
+get_all_players 2
 get_team_points 1
-get_team_points 11
-get_all_players_count 16
-get_all_players 19
+add_team 7 11250
+get_num_played_games 31
 get_top_scorer 8
-add_team 20 4943
-knockout_winner 7 7
-add_player 158 19 4670 10748 1505 true
-get_all_players_count 15
-remove_player 97
-remove_team 13
-update_player_stats 74 930 6066 5932
-get_all_players 15
-update_player_stats 171 10762 4783 9671
-add_player 176 7 9811 9771 3567 true
-knockout_winner 2 6
-get_team_points 2
-play_match 17 8
-update_player_stats 193 6606 2391 6634
-update_player_stats 119 8479 1729 3996
-add_player 41 7 7286 9438 2108 true
-play_match 1 6
-update_player_stats 134 4353 10445 11932
-get_all_players 19
-remove_player 165
-remove_team 7
-get_all_players 15
-unite_teams 8 17 6
-remove_player 111
-unite_teams 16 19 5
-add_player 107 16 601 3732 381 true
-get_all_players_count 19
-get_all_players_count 19
-knockout_winner 19 4
-update_player_stats 40 11918 2915 6792
-add_player 176 5 2574 3210 6357 true
-play_match 7 6
-remove_team 7
-unite_teams 17 6 13
-knockout_winner 2 4
-remove_player 188
-unite_teams 11 11 19
-get_all_players 16
-get_all_players_count 17
-unite_teams 11 1 1
-add_team 9 5076
-remove_player 109
-get_top_scorer 19
-remove_team 4
-get_top_scorer 2
-remove_player 177
-get_team_points 4
-add_player 69 17 7144 1953 12184 true
-remove_team 4
-unite_teams 17 16 1
-play_match 15 15
-get_closest_player 27 16
-get_all_players_count 5
-knockout_winner 4 1
-get_all_players 19
-remove_team 7
-unite_teams 5 6 15
-get_closest_player 82 1
-unite_teams 20 19 4
-play_match 13 6
-get_all_players 9
-add_player 21 15 7482 11216 12048 true
-add_player 21 1 8145 7189 7822 true
-remove_player 58
-update_player_stats 26 6157 418 3468
-get_top_scorer 19
-get_closest_player 16 20
-update_player_stats 161 7507 9754 12280
-knockout_winner 20 4
-play_match 7 15
-get_closest_player 149 1
-get_num_played_games 41
-add_player 43 4 6476 5409 12311 true
-remove_team 20
-unite_teams 17 16 16
-get_closest_player 116 9
-update_player_stats 164 11403 8235 3728
-get_closest_player 45 15
-get_all_players 1
-get_closest_player 8 8
-knockout_winner 6 15
-remove_player 130
-play_match 19 13
-remove_team 13
-get_all_players_count 9
-remove_player 169
-unite_teams 16 19 15
-add_player 105 19 2393 1384 404 true
-add_team 8 11602
-get_all_players_count 7
-get_num_played_games 126
-update_player_stats 41 9948 10600 1751
-remove_player 71
-get_top_scorer 4
-get_all_players_count 9
-play_match 13 16
-add_player 30 15 8330 8605 7944 true
-remove_player 85
-remove_player 37
-unite_teams 2 1 16
-get_team_points 6
-get_top_scorer 4
-get_all_players 9
-remove_team 15
-get_team_points 2
-add_team 9 6985
-get_closest_player 175 1
-get_closest_player 39 13
-get_all_players 8
-get_all_players_count 2
-remove_team 20
-play_match 19 8
-unite_teams 8 1 20
-add_team 6 2779
-remove_team 9
-remove_team 20
-add_team 15 2507
+remove_player 66
+add_team 12 4233
+remove_player 191
+knockout_winner 3 4
+knockout_winner -2 9
+knockout_winner -2 -1
 knockout_winner 8 9
-add_player 124 9 9462 1548 6530 true
-get_num_played_games 175
-unite_teams 8 1 19
-get_num_played_games 94
-add_player 2 19 6168 9875 9978 false
-get_num_played_games 194
-unite_teams 2 1 8
-get_top_scorer 13
-remove_player 195
-play_match 19 4
-add_player 127 1 6241 11947 6539 false
-remove_team 1
-play_match 15 7
-remove_team 19
-get_team_points 1
-knockout_winner 16 16
-remove_team 4
-update_player_stats 175 1036 10615 4429
-update_player_stats 119 5502 6041 12314
-play_match 13 1
-remove_player 90
-get_all_players 16
-play_match 4 5
-play_match 19 20
-add_team 16 10130
-get_team_points 2
-get_num_played_games 151
-update_player_stats 69 10861 4461 11869
-add_player 80 4 12034 11152 3982 true
-add_player 5 8 8149 10087 5772 true
-remove_player 187
-get_num_played_games 136
-get_all_players_count 20
-play_match 15 20
-remove_team 16
-remove_team 20
-play_match 20 9
-get_team_points 15
-get_num_played_games 126
-add_team 15 12260
-remove_team 2
-add_player 18 4 9299 11638 3431 true
-get_all_players 15
-play_match 6 20
-update_player_stats 186 6306 5241 5470
-get_team_points 15
-remove_team 4
-remove_player 189
-knockout_winner 15 20
-get_all_players_count 20
-remove_player 3
-unite_teams 7 6 8
-unite_teams 6 9 9
-get_all_players 16
-remove_team 15
-get_all_players 19
+knockout_winner 8 -1
+play_match 18 8
+add_player 17 15 8701 7773 555 true
+get_team_points 3
+get_all_players_count 18
+add_player 33 15 8212 4983 1926 false
+add_player 97 18 8303 8331 3733 false
+remove_player 145
+get_top_scorer 12
 get_all_players 9
-update_player_stats 75 7679 6445 5275
-add_player 158 7 8261 9239 7533 true
-add_player 74 7 9710 4702 3851 true
+remove_team 19
+get_top_scorer 11
+remove_player 132
+remove_team 8
+get_all_players_count 19
+get_top_scorer 6
+get_all_players 13
+get_num_played_games 153
+add_team 4 6509
+get_all_players_count 11
+get_team_points 15
+get_closest_player 179 18
+get_all_players 16
+remove_team 10
+get_closest_player 1 7
+unite_teams 16 15 19
+update_player_stats 40 5492 9991 5912
+remove_player 56
+update_player_stats 142 8318 11524 4264
+knockout_winner 14 19
+knockout_winner 9 24
+knockout_winner 9 14
+knockout_winner 19 24
+knockout_winner 19 14
+add_team 13 1116
+remove_player 58
+update_player_stats 70 8252 11051 6058
 remove_player 2
-remove_player 4
+get_top_scorer 5
+get_top_scorer 11
+get_all_players 20
+get_all_players_count 8
+get_closest_player 8 1
+get_top_scorer 6
+play_match 8 8
+get_all_players_count 20
+update_player_stats 160 12157 9400 12296
+get_team_points 10
+add_team 2 9000
+get_num_played_games 83
+remove_team 10
+get_team_points 7
+add_player 22 16 9349 10435 4108 true
+unite_teams 8 14 20
+get_all_players_count 2
+add_player 155 20 10738 4583 5261 true
+add_player 88 17 2040 4191 4383 true
+play_match 1 1
+get_closest_player 47 12
+play_match 18 20
+add_player 186 12 9477 10960 5663 true
+update_player_stats 143 6644 6122 9496
+get_team_points 3
+add_player 1 11 624 590 7582 true
+knockout_winner 1 16
+knockout_winner -4 21
+knockout_winner -4 11
+knockout_winner 6 21
+knockout_winner 6 11
+remove_player 80
+get_all_players 19
+update_player_stats 13 244 780 1420
+get_team_points 12
+play_match 17 12
+add_team 8 4819
+get_num_played_games 117
+remove_team 15
+unite_teams 19 8 18
+unite_teams 10 20 13
+get_all_players_count 17
+unite_teams 1 14 15
+get_team_points 16
+get_top_scorer 9
+get_all_players_count 12
+play_match 11 14
+get_top_scorer 7
+get_all_players 20
+knockout_winner 16 18
+knockout_winner 11 23
+knockout_winner 11 13
+knockout_winner 21 23
+knockout_winner 21 13
+get_closest_player 72 12
+add_player 1 3 3457 9350 334 false
+unite_teams 3 11 13
+get_num_played_games 52
+remove_team 11
+unite_teams 10 4 10
+play_match 17 20
+get_all_players_count 9
+knockout_winner 1 7
+knockout_winner -4 12
+knockout_winner -4 2
+knockout_winner 6 12
+knockout_winner 6 2
+play_match 13 6
+remove_team 6
+get_closest_player 141 17
+add_player 78 11 11588 8614 2600 true
+get_top_scorer 20
+update_player_stats 49 5195 2851 745
+get_num_played_games 101
+remove_player 143
+knockout_winner 12 19
+knockout_winner 7 24
+knockout_winner 7 14
+knockout_winner 17 24
+knockout_winner 17 14
+remove_player 95
+add_team 18 1790
+remove_player 84
+unite_teams 9 7 19
+add_player 167 19 4071 9181 8704 true
+get_all_players 12
+update_player_stats 69 10041 4488 6361
+unite_teams 5 7 8
+knockout_winner 16 10
+knockout_winner 11 15
+knockout_winner 11 5
+knockout_winner 21 15
+knockout_winner 21 5
+play_match 3 13
+get_num_played_games 170
+knockout_winner 14 20
+knockout_winner 9 25
+knockout_winner 9 15
+knockout_winner 19 25
+knockout_winner 19 15
+unite_teams 5 9 19
+get_all_players_count 19
+get_top_scorer 11
+update_player_stats 184 3653 8184 5841
+remove_player 78
+get_team_points 14
+get_all_players 12
+get_team_points 19
+get_all_players_count 17
+add_team 17 10544
+unite_teams 13 18 2
+play_match 15 7
+remove_player 125
+unite_teams 17 11 16
+get_num_played_games 28
+knockout_winner 1 12
+knockout_winner -4 17
+knockout_winner -4 7
+knockout_winner 6 17
+knockout_winner 6 7
+get_num_played_games 144
+get_team_points 12
+remove_team 14
+remove_team 2
+get_num_played_games 116
+knockout_winner 8 19
+knockout_winner 3 24
+knockout_winner 3 14
+knockout_winner 13 24
+knockout_winner 13 14
+play_match 16 12
+get_num_played_games 176
+remove_team 5
+get_closest_player 27 9
+get_all_players 20
+get_all_players_count 1
+add_player 177 16 2617 8158 2640 true
+get_all_players_count 3
+unite_teams 1 7 6
+unite_teams 11 12 1
+get_team_points 18
+add_team 8 9278
+update_player_stats 161 6644 10465 8776
+remove_team 14
+get_closest_player 188 7
+get_num_played_games 195
+get_team_points 1
+unite_teams 9 8 11
+remove_team 19
+add_player 185 17 3006 10668 5484 false
+remove_team 20
+get_num_played_games 65
+play_match 18 5
+unite_teams 16 11 2
+knockout_winner 9 11
+knockout_winner 4 16
+knockout_winner 4 6
+knockout_winner 14 16
+knockout_winner 14 6
+remove_team 1
+remove_team 5
+get_closest_player 115 15
+update_player_stats 104 2313 9091 6227
+get_all_players_count 1
 remove_player 5
-remove_player 8
-remove_player 10
-remove_player 11
-remove_player 12
+get_all_players 1
+get_all_players_count 5
+unite_teams 13 16 13
+play_match 19 3
+get_closest_player 55 13
+knockout_winner 8 13
+knockout_winner 3 18
+knockout_winner 3 8
+knockout_winner 13 18
+knockout_winner 13 8
+get_team_points 10
+unite_teams 11 5 3
+remove_team 19
+get_top_scorer 12
+remove_player 123
+play_match 11 17
+get_all_players_count 11
+get_team_points 5
+knockout_winner 14 13
+knockout_winner 9 18
+knockout_winner 9 8
+knockout_winner 19 18
+knockout_winner 19 8
+remove_player 142
+get_all_players_count 18
+update_player_stats 98 6984 5464 8045
+add_player 148 8 11075 10559 2628 true
+remove_team 15
+knockout_winner 17 13
+knockout_winner 12 18
+knockout_winner 12 8
+knockout_winner 22 18
+knockout_winner 22 8
+knockout_winner 10 10
+knockout_winner 5 15
+knockout_winner 5 5
+knockout_winner 15 15
+knockout_winner 15 5
+add_player 28 10 2719 2852 8667 true
+update_player_stats 187 650 2659 1947
+knockout_winner 14 13
+knockout_winner 9 18
+knockout_winner 9 8
+knockout_winner 19 18
+knockout_winner 19 8
+play_match 18 17
+remove_team 17
+get_all_players 12
+update_player_stats 197 3279 3874 10120
+remove_player 122
+unite_teams 5 12 5
+knockout_winner 11 19
+knockout_winner 6 24
+knockout_winner 6 14
+knockout_winner 16 24
+knockout_winner 16 14
+play_match 7 19
+update_player_stats 106 3963 12058 4836
+get_all_players_count 11
+get_num_played_games 48
+play_match 11 18
+get_team_points 9
 remove_player 13
+get_all_players 14
+unite_teams 15 15 6
+knockout_winner 14 17
+knockout_winner 9 22
+knockout_winner 9 12
+knockout_winner 19 22
+knockout_winner 19 12
+get_all_players_count 1
+remove_player 24
+add_player 116 17 9393 5186 11704 false
+get_num_played_games 94
+get_all_players 6
+remove_team 11
+get_num_played_games 138
+get_team_points 11
+get_num_played_games 157
+update_player_stats 20 1087 12119 8129
+get_num_played_games 67
+knockout_winner 10 13
+knockout_winner 5 18
+knockout_winner 5 8
+knockout_winner 15 18
+knockout_winner 15 8
+add_player 72 10 10652 8374 1654 true
+get_closest_player 166 11
+knockout_winner 13 5
+knockout_winner 8 10
+knockout_winner 8 0
+knockout_winner 18 10
+knockout_winner 18 0
+get_all_players_count 8
+add_player 73 10 151 2668 2498 true
+remove_team 3
+get_closest_player 81 11
+get_closest_player 100 13
+get_team_points 7
+remove_team 2
+remove_player 120
+unite_teams 6 14 5
+update_player_stats 19 7732 2109 7532
+unite_teams 19 13 19
+add_player 14 19 3759 1145 2616 false
+add_player 21 7 1911 6375 3722 true
+remove_team 18
+unite_teams 14 5 5
+get_num_played_games 44
+get_all_players_count 1
+remove_player 34
+unite_teams 1 1 10
+knockout_winner 6 8
+knockout_winner 1 13
+knockout_winner 1 3
+knockout_winner 11 13
+knockout_winner 11 3
+play_match 18 3
+update_player_stats 37 9434 9030 7227
+update_player_stats 36 8854 699 4235
+get_closest_player 183 10
+add_team 19 10401
+get_num_played_games 115
+get_all_players_count 6
+add_player 27 3 7105 1530 7968 true
+update_player_stats 32 3428 641 8546
+get_all_players 7
+unite_teams 11 7 20
+get_top_scorer 3
+get_closest_player 175 17
+play_match 17 19
+remove_player 1
+play_match 5 1
+get_all_players_count 6
+remove_player 83
+update_player_stats 40 6940 4087 9610
+add_player 17 11 7695 5553 671 false
+remove_player 45
+get_top_scorer 11
+unite_teams 11 5 18
+unite_teams 3 5 9
+get_team_points 7
+add_team 19 5138
+update_player_stats 47 8692 7640 1339
+update_player_stats 9 6033 10076 4914
+get_all_players_count 10
+remove_team 5
+play_match 5 2
+add_player 110 1 554 8684 9038 true
+unite_teams 20 2 15
+get_num_played_games 4
+remove_player 62
+get_closest_player 151 8
+update_player_stats 81 7663 764 9523
+remove_team 1
+get_all_players_count 18
+remove_team 8
+remove_team 18
+remove_player 49
+remove_team 17
+add_team 18 9720
+remove_team 3
+remove_player 98
+unite_teams 19 11 5
+get_num_played_games 190
+play_match 15 19
+knockout_winner 3 19
+knockout_winner -2 24
+knockout_winner -2 14
+knockout_winner 8 24
+knockout_winner 8 14
+play_match 9 3
+remove_team 9
+remove_team 15
+add_player 161 10 3191 2011 7744 true
+knockout_winner 6 11
+knockout_winner 1 16
+knockout_winner 1 6
+knockout_winner 11 16
+knockout_winner 11 6
+get_num_played_games 59
+add_player 152 9 11589 9668 8082 true
+play_match 2 20
+add_team 6 4375
+add_team 15 3574
+remove_team 2
+update_player_stats 115 7294 3531 5052
+remove_player 161
+unite_teams 7 8 5
+play_match 15 8
+get_top_scorer 19
+add_team 11 10057
+add_player 19 6 701 9377 10913 true
+get_all_players_count 5
+get_all_players 10
+play_match 10 15
+get_closest_player 27 9
+knockout_winner 1 1
+knockout_winner -4 6
+knockout_winner -4 -4
+knockout_winner 6 6
+knockout_winner 6 -4
+add_player 70 10 6964 866 7705 true
+get_num_played_games 76
+add_player 82 17 8732 10991 7795 true
+get_all_players 9
+get_all_players_count 7
+get_num_played_games 167
+knockout_winner 1 11
+knockout_winner -4 16
+knockout_winner -4 6
+knockout_winner 6 16
+knockout_winner 6 6
+get_closest_player 55 19
+update_player_stats 53 6614 1950 4057
+knockout_winner 6 7
+knockout_winner 1 12
+knockout_winner 1 2
+knockout_winner 11 12
+knockout_winner 11 2
+get_all_players_count 1
+add_player 57 19 1470 4895 6884 true
+get_num_played_games 150
+unite_teams 6 17 20
+remove_team 1
+remove_team 8
+get_team_points 20
+remove_player 111
+add_team 10 5740
+get_all_players 9
+add_player 177 8 10518 7477 5427 true
+get_top_scorer 15
+get_closest_player 159 19
+get_num_played_games 198
+get_team_points 5
+get_team_points 10
+update_player_stats 127 1162 10017 7788
+remove_team 19
+remove_player 130
+get_closest_player 70 17
+play_match 19 20
+add_player 179 11 6813 3292 6592 false
+play_match 19 6
+update_player_stats 190 5780 8095 6244
+remove_team 5
+get_all_players 2
+add_team 15 9866
+play_match 5 11
+get_team_points 15
+get_team_points 18
+get_closest_player 189 5
+add_team 6 2043
+get_all_players_count 8
+play_match 2 6
+get_num_played_games 31
+get_closest_player 4 3
+play_match 15 18
+get_team_points 8
+play_match 19 9
+knockout_winner 1 15
+knockout_winner -4 20
+knockout_winner -4 10
+knockout_winner 6 20
+knockout_winner 6 10
+get_all_players_count 20
+get_top_scorer 19
+get_num_played_games 37
+get_all_players_count 8
+play_match 20 3
+remove_player 186
+get_closest_player 8 1
+get_all_players_count 8
+add_team 6 134
+remove_player 179
+remove_team 20
+knockout_winner 6 11
+knockout_winner 1 16
+knockout_winner 1 6
+knockout_winner 11 16
+knockout_winner 11 6
+get_top_scorer 7
+get_team_points 8
+get_team_points 6
+knockout_winner 15 20
+knockout_winner 10 25
+knockout_winner 10 15
+knockout_winner 20 25
+knockout_winner 20 15
+get_closest_player 11 2
+get_team_points 6
+update_player_stats 144 9903 11073 9314
+get_all_players_count 19
+add_player 72 5 9744 5648 3107 true
+get_top_scorer 11
+get_num_played_games 131
+get_closest_player 113 20
+unite_teams 8 6 7
+play_match 8 19
+knockout_winner 2 2
+knockout_winner -3 7
+knockout_winner -3 -3
+knockout_winner 7 7
+knockout_winner 7 -3
+add_team 15 6112
+get_all_players 10
+get_closest_player 8 1
+get_all_players_count 6
+get_team_points 1
+get_team_points 1
+remove_team 5
+get_team_points 9
+remove_player 55
+remove_team 18
+remove_team 19
+play_match 11 8
+remove_team 15
+get_all_players 1
+play_match 15 6
+update_player_stats 35 8337 120 9998
+get_num_played_games 53
+get_top_scorer 6
+get_closest_player 102 15
+get_top_scorer 18
+get_all_players 3
+get_team_points 20
+remove_team 6
+get_all_players_count 10
+get_all_players 8
+get_all_players_count 11
+get_num_played_games 158
+remove_team 11
+add_team 3 349
+add_player 134 8 12300 6799 302 true
+remove_team 17
+get_top_scorer 18
+get_top_scorer 9
+update_player_stats 135 1041 5773 2318
+add_player 79 17 5556 5144 4257 false
+remove_player 154
+add_player 23 11 292 7206 1954 true
+remove_player 178
+add_player 119 5 2814 347 7037 false
+remove_player 104
+get_closest_player 127 7
+unite_teams 17 18 6
+get_all_players 15
+add_player 14 9 478 1979 3448 true
+get_num_played_games 6
+get_num_played_games 8
+get_all_players_count 19
+add_team 2 10182
+get_top_scorer 10
+play_match 20 17
+add_team 5 1672
+remove_team 1
+get_all_players_count 17
+remove_team 19
+get_closest_player 25 17
+knockout_winner 3 17
+knockout_winner -2 22
+knockout_winner -2 12
+knockout_winner 8 22
+knockout_winner 8 12
+get_team_points 15
+play_match 20 3
+get_team_points 3
+get_num_played_games 180
+play_match 2 11
+get_closest_player 100 19
+get_team_points 6
+get_all_players 10
+get_all_players 9
+remove_player 73
+remove_player 7
+get_all_players_count 17
+get_num_played_games 65
+get_closest_player 89 18
+play_match 10 1
+get_all_players_count 5
+get_num_played_games 134
+get_all_players 15
+get_all_players 5
+get_num_played_games 138
+get_team_points 18
+add_team 15 11084
+remove_team 18
+get_team_points 1
+get_closest_player 170 10
+get_closest_player 79 5
+unite_teams 17 18 8
+remove_team 10
+get_all_players 19
+add_team 5 5741
+remove_player 165
+play_match 5 2
+unite_teams 18 5 9
+get_all_players_count 20
+remove_player 151
+remove_team 15
+get_top_scorer 20
+get_top_scorer 7
+remove_team 18
+get_all_players 1
+get_num_played_games 106
+add_player 79 18 8797 5140 10047 true
+remove_team 6
+get_num_played_games 159
+add_player 172 11 5244 3126 7658 true
+update_player_stats 168 6178 3014 3778
+get_team_points 20
+get_top_scorer 6
+get_num_played_games 194
+remove_player 172
+get_closest_player 87 5
+knockout_winner 5 5
+knockout_winner 0 10
+knockout_winner 0 0
+knockout_winner 10 10
+knockout_winner 10 0
+remove_player 35
+get_top_scorer 11
+add_player 93 1 2406 229 9811 true
+play_match 9 7
+remove_player 15
+get_top_scorer 18
+add_team 2 10119
+get_all_players_count 10
+remove_team 6
+update_player_stats 74 4152 10827 208
+get_top_scorer 18
+play_match 10 9
+get_num_played_games 47
+get_team_points 18
+get_closest_player 23 7
+get_all_players_count 17
+get_closest_player 6 10
+get_all_players 18
+get_num_played_games 76
+remove_team 2
+remove_team 1
+get_team_points 7
+unite_teams 11 20 9
+play_match 19 20
+add_team 15 12093
+remove_team 11
+add_team 11 10944
+update_player_stats 168 8842 8459 1338
+add_player 93 11 9356 2956 1017 true
+get_team_points 17
+knockout_winner 8 11
+knockout_winner 3 16
+knockout_winner 3 6
+knockout_winner 13 16
+knockout_winner 13 6
+unite_teams 9 1 6
+unite_teams 7 1 7
+get_closest_player 11 2
+get_all_players 20
+play_match 20 2
+get_num_played_games 177
+get_all_players 3
+get_closest_player 138 7
+add_team 5 8874
+play_match 17 9
+update_player_stats 180 10366 11813 4578
+add_team 6 9949
+get_team_points 18
+remove_player 11
+get_all_players 2
+get_top_scorer 18
+get_top_scorer 15
+add_team 18 9735
+play_match 7 10
+get_team_points 2
+remove_team 8
+get_top_scorer 11
+get_closest_player 181 15
+unite_teams 6 3 17
+remove_player 118
+play_match 9 17
+knockout_winner 2 9
+knockout_winner -3 14
+knockout_winner -3 4
+knockout_winner 7 14
+knockout_winner 7 4
+get_all_players_count 17
+unite_teams 2 9 5
+get_all_players 11
+get_num_played_games 23
+add_team 2 6600
+get_team_points 20
+remove_team 18
+add_team 18 6079
+get_all_players 3
+remove_team 8
+get_all_players 3
+knockout_winner 5 5
+knockout_winner 0 10
+knockout_winner 0 0
+knockout_winner 10 10
+knockout_winner 10 0
+play_match 20 10
+get_all_players_count 20
+get_team_points 18
+knockout_winner 6 10
+knockout_winner 1 15
+knockout_winner 1 5
+knockout_winner 11 15
+knockout_winner 11 5
+unite_teams 8 9 6
+add_player 12 2 1152 6029 2105 false
+remove_team 18
+get_team_points 3
+get_closest_player 31 3
+get_closest_player 160 6
+get_team_points 20
+knockout_winner 18 19
+knockout_winner 13 24
+knockout_winner 13 14
+knockout_winner 23 24
+knockout_winner 23 14
+update_player_stats 117 936 7512 7932
+knockout_winner 15 10
+knockout_winner 10 15
+knockout_winner 10 5
+knockout_winner 20 15
+knockout_winner 20 5
+get_team_points 9
+update_player_stats 52 92 6328 1476
+get_top_scorer 10
+remove_team 11
+update_player_stats 116 3956 1682 7527
+get_all_players 8
+play_match 15 18
+get_num_played_games 60
+get_closest_player 10 20
+add_player 103 11 11296 1272 836 true
+get_closest_player 162 5
+unite_teams 18 11 5
+get_num_played_games 87
+get_team_points 19
+get_team_points 15
+get_team_points 15
+get_all_players 18
+knockout_winner 11 17
+knockout_winner 6 22
+knockout_winner 6 12
+knockout_winner 16 22
+knockout_winner 16 12
+get_top_scorer 15
+add_player 157 18 202 10386 4547 true
+get_num_played_games 185
+remove_team 20
+unite_teams 19 3 5
+get_num_played_games 57
+update_player_stats 27 474 8904 7188
+get_all_players 20
+add_team 19 5116
+add_team 20 1725
+add_team 17 4263
+get_closest_player 166 11
+remove_player 113
+update_player_stats 47 2537 6371 389
+get_top_scorer 10
+get_team_points 6
+get_top_scorer 11
+play_match 10 11
+remove_player 198
+get_num_played_games 74
+update_player_stats 162 4390 759 4855
+get_all_players 9
+get_num_played_games 140
+remove_player 18
+play_match 18 20
+get_closest_player 28 5
+add_team 7 7020
+remove_team 10
+knockout_winner 8 10
+knockout_winner 3 15
+knockout_winner 3 5
+knockout_winner 13 15
+knockout_winner 13 5
+get_all_players 17
+update_player_stats 10 2068 9564 2823
+remove_player 188
+remove_team 10
+add_team 3 3881
+add_player 182 7 11761 11693 3433 false
+get_closest_player 128 19
+unite_teams 19 2 15
+remove_team 19
+add_player 136 8 9212 1904 1147 true
+get_num_played_games 50
+play_match 20 3
+get_closest_player 40 2
+get_top_scorer 8
+unite_teams 5 2 8
+remove_team 20
+play_match 9 17
+knockout_winner 3 11
+knockout_winner -2 16
+knockout_winner -2 6
+knockout_winner 8 16
+knockout_winner 8 6
+knockout_winner 7 7
+knockout_winner 2 12
+knockout_winner 2 2
+knockout_winner 12 12
+knockout_winner 12 2
+get_team_points 11
+get_all_players 20
+get_num_played_games 4
+unite_teams 9 18 3
+knockout_winner 8 8
+knockout_winner 3 13
+knockout_winner 3 3
+knockout_winner 13 13
+knockout_winner 13 3
+remove_player 8
+remove_team 7
+get_all_players_count 5
+remove_team 8
+update_player_stats 14 3196 6217 6648
+play_match 15 8
+update_player_stats 68 8284 8634 11212
+remove_team 8
+remove_player 72
+unite_teams 15 20 9
+add_team 7 4937
+get_closest_player 82 3
+get_closest_player 149 5
+get_num_played_games 109
+get_all_players 5
+unite_teams 17 18 11
+remove_player 76
+get_team_points 10
+update_player_stats 94 9172 1324 9614
+get_team_points 18
+update_player_stats 117 3756 3788 2602
+get_all_players_count 18
+get_closest_player 69 5
+play_match 18 15
+add_player 109 2 4484 4476 10875 true
+unite_teams 5 18 8
+play_match 2 8
+remove_player 177
+get_closest_player 194 5
+play_match 20 20
+get_closest_player 42 19
+get_all_players_count 5
+knockout_winner 6 11
+knockout_winner 1 16
+knockout_winner 1 6
+knockout_winner 11 16
+knockout_winner 11 6
+knockout_winner 10 7
+knockout_winner 5 12
+knockout_winner 5 2
+knockout_winner 15 12
+knockout_winner 15 2
+remove_player 92
+knockout_winner 10 5
+knockout_winner 5 10
+knockout_winner 5 0
+knockout_winner 15 10
+knockout_winner 15 0
+unite_teams 5 17 19
+update_player_stats 160 9679 7130 9584
+remove_player 187
+get_all_players_count 9
+update_player_stats 3 3452 4480 1508
+update_player_stats 25 7114 11779 10139
+get_all_players 20
+get_all_players_count 5
+remove_player 196
+update_player_stats 157 16 5811 3040
+remove_team 8
+remove_player 22
+update_player_stats 183 1643 10203 3013
+remove_team 3
+add_player 139 18 11897 7708 10473 true
+get_team_points 8
+get_closest_player 9 5
+knockout_winner 7 7
+knockout_winner 2 12
+knockout_winner 2 2
+knockout_winner 12 12
+knockout_winner 12 2
+remove_team 5
+get_all_players_count 9
+get_all_players_count 10
+remove_team 7
+get_num_played_games 184
+knockout_winner 3 18
+knockout_winner -2 23
+knockout_winner -2 13
+knockout_winner 8 23
+knockout_winner 8 13
+add_player 140 15 10968 6438 8304 true
+get_all_players_count 5
+add_team 9 267
+unite_teams 7 17 18
+get_all_players_count 19
+knockout_winner 7 7
+knockout_winner 2 12
+knockout_winner 2 2
+knockout_winner 12 12
+knockout_winner 12 2
+get_all_players 6
+add_player 54 15 1200 5845 1360 true
+get_all_players 5
+unite_teams 10 5 6
+update_player_stats 112 12214 2204 747
+get_team_points 7
+play_match 18 10
+add_team 11 11868
+get_num_played_games 77
+remove_player 23
+get_team_points 8
+remove_team 19
+get_closest_player 69 5
+get_num_played_games 64
+get_all_players_count 11
+remove_team 7
+unite_teams 17 8 15
+get_num_played_games 25
+get_all_players 17
+get_all_players 2
+add_team 9 242
+add_player 140 7 6545 4665 3645 true
+knockout_winner 5 7
+knockout_winner 0 12
+knockout_winner 0 2
+knockout_winner 10 12
+knockout_winner 10 2
+get_num_played_games 117
+remove_team 3
+get_top_scorer 15
+play_match 19 18
+get_closest_player 112 5
+get_top_scorer 20
+get_num_played_games 52
+get_all_players_count 9
+get_all_players_count 20
+add_player 175 20 7393 1926 4523 true
+get_all_players_count 11
+update_player_stats 195 1501 5823 10532
+unite_teams 8 6 2
+unite_teams 19 2 7
+update_player_stats 168 760 6833 4007
+play_match 7 8
+get_team_points 5
+knockout_winner 10 10
+knockout_winner 5 15
+knockout_winner 5 5
+knockout_winner 15 15
+knockout_winner 15 5
+get_all_players_count 9
+remove_player 101
+get_top_scorer 7
+get_top_scorer 19
+update_player_stats 26 7616 2406 10795
+play_match 20 5
+remove_player 60
+add_player 195 19 10761 8409 10793 true
+get_top_scorer 19
+get_top_scorer 2
+get_team_points 20
+get_closest_player 167 17
+update_player_stats 174 11366 10388 11905
+play_match 15 11
+add_team 5 7389
+get_closest_player 79 5
+get_top_scorer 11
+remove_player 163
+remove_team 17
+remove_player 148
+get_num_played_games 48
+get_all_players 7
+play_match 6 19
+get_top_scorer 17
+get_top_scorer 8
+remove_player 68
+add_player 136 8 3931 10597 3792 true
+get_closest_player 136 19
+play_match 11 8
+get_top_scorer 2
+get_team_points 20
+knockout_winner 17 17
+knockout_winner 12 22
+knockout_winner 12 12
+knockout_winner 22 22
+knockout_winner 22 12
+get_closest_player 86 18
+get_all_players_count 15
+get_num_played_games 185
+play_match 8 8
+update_player_stats 85 2851 3382 4053
+get_all_players_count 6
+remove_player 147
+remove_team 7
+get_all_players_count 20
+remove_player 183
+update_player_stats 117 10820 2259 1645
+update_player_stats 156 12337 10219 9436
+get_top_scorer 10
+unite_teams 18 11 19
+unite_teams 2 18 20
+get_all_players 5
+add_player 107 20 10001 10501 6750 true
+get_all_players 5
+get_all_players_count 9
+unite_teams 5 15 18
+play_match 11 15
+add_team 10 7599
+add_team 6 6286
+get_top_scorer 8
+get_all_players 5
+knockout_winner 10 5
+knockout_winner 5 10
+knockout_winner 5 0
+knockout_winner 15 10
+knockout_winner 15 0
+knockout_winner 15 17
+knockout_winner 10 22
+knockout_winner 10 12
+knockout_winner 20 22
+knockout_winner 20 12
+get_team_points 15
+knockout_winner 15 5
+knockout_winner 10 10
+knockout_winner 10 0
+knockout_winner 20 10
+knockout_winner 20 0
+add_player 131 6 10582 9100 458 true
+add_player 102 11 1389 10775 977 false
+get_all_players 9
+remove_player 91
+add_team 19 12026
+unite_teams 17 18 9
+get_num_played_games 100
+get_all_players 8
+get_all_players 3
+remove_player 27
+remove_team 7
+get_all_players_count 15
+play_match 10 3
+remove_player 174
+get_all_players 7
+get_top_scorer 9
+get_team_points 19
+unite_teams 6 7 11
+get_all_players_count 3
+get_closest_player 26 19
+knockout_winner 9 5
+knockout_winner 4 10
+knockout_winner 4 0
+knockout_winner 14 10
+knockout_winner 14 0
+get_all_players 6
+get_all_players_count 15
+get_num_played_games 4
+get_all_players 17
+add_player 4 7 2368 1439 5649 true
+knockout_winner 10 10
+knockout_winner 5 15
+knockout_winner 5 5
+knockout_winner 15 15
+knockout_winner 15 5
+add_team 17 7987
+add_team 9 72
+get_num_played_games 33
+get_all_players 3
+get_top_scorer 18
+unite_teams 15 15 15
+get_all_players 11
+remove_player 173
+get_top_scorer 11
+add_team 9 12252
+get_all_players 2
+add_team 5 912
+get_top_scorer 11
+unite_teams 18 7 10
+remove_player 159
+get_team_points 9
+get_top_scorer 18
+get_top_scorer 8
+get_team_points 3
+update_player_stats 167 6429 893 1197
+play_match 3 17
+knockout_winner 7 7
+knockout_winner 2 12
+knockout_winner 2 2
+knockout_winner 12 12
+knockout_winner 12 2
+get_team_points 8
+remove_player 74
+add_team 17 8037
+play_match 9 9
+get_all_players 5
+knockout_winner 15 5
+knockout_winner 10 10
+knockout_winner 10 0
+knockout_winner 20 10
+knockout_winner 20 0
+get_all_players 8
+get_all_players_count 17
+get_closest_player 126 7
+add_player 63 7 9418 2068 4873 false
+knockout_winner 2 15
+knockout_winner -3 20
+knockout_winner -3 10
+knockout_winner 7 20
+knockout_winner 7 10
+remove_team 17
+add_player 160 17 1091 9993 4714 false
+get_team_points 20
+get_top_scorer 9
+remove_team 8
+remove_player 136
+add_team 17 2477
+get_num_played_games 167
+get_all_players_count 15
+add_player 46 8 3316 2983 3192 false
+knockout_winner 10 5
+knockout_winner 5 10
+knockout_winner 5 0
+knockout_winner 15 10
+knockout_winner 15 0
+add_player 86 2 10431 9243 8230 true
+get_all_players 10
+get_top_scorer 5
+update_player_stats 40 9235 9215 11543
+play_match 10 19
+get_team_points 20
+get_team_points 6
+get_top_scorer 17
+remove_player 164
+get_num_played_games 109
+get_team_points 9
+get_all_players 3
+update_player_stats 88 10919 2326 8668
+get_all_players 3
+add_player 97 7 7749 10603 3060 true
+add_team 3 6945
+add_team 6 8957
+update_player_stats 54 4712 4734 9205
+get_team_points 3
+update_player_stats 166 3226 11126 9519
+remove_player 33
+remove_player 197
+knockout_winner 3 20
+knockout_winner -2 25
+knockout_winner -2 15
+knockout_winner 8 25
+knockout_winner 8 15
+get_closest_player 32 9
+get_top_scorer 10
+get_closest_player 129 15
+update_player_stats 119 7289 8675 3961
+remove_team 15
+add_player 99 18 4908 1076 6672 false
+update_player_stats 141 5973 5429 9628
+get_all_players_count 3
+get_all_players_count 9
+get_num_played_games 110
+get_top_scorer 9
+get_num_played_games 10
+unite_teams 18 10 2
+get_top_scorer 5
+get_num_played_games 29
+update_player_stats 144 3414 11647 7167
+get_num_played_games 70
+remove_player 3
+remove_player 4
+remove_player 6
+remove_player 9
+remove_player 10
+remove_player 12
 remove_player 14
 remove_player 16
 remove_player 17
-remove_player 18
 remove_player 19
 remove_player 20
 remove_player 21
-remove_player 22
-remove_player 23
 remove_player 25
 remove_player 26
-remove_player 27
+remove_player 28
+remove_player 29
 remove_player 30
-remove_player 33
-remove_player 35
+remove_player 31
+remove_player 32
+remove_player 36
+remove_player 37
+remove_player 38
 remove_player 39
 remove_player 40
-remove_player 41
+remove_player 42
 remove_player 43
-remove_player 45
+remove_player 44
+remove_player 46
 remove_player 47
+remove_player 48
 remove_player 50
+remove_player 51
 remove_player 52
+remove_player 53
 remove_player 54
-remove_player 55
 remove_player 57
+remove_player 59
 remove_player 61
 remove_player 63
 remove_player 64
+remove_player 65
+remove_player 67
 remove_player 69
 remove_player 70
-remove_player 72
-remove_player 73
-remove_player 74
+remove_player 71
 remove_player 75
-remove_player 76
 remove_player 77
-remove_player 80
+remove_player 79
 remove_player 81
 remove_player 82
+remove_player 85
+remove_player 86
 remove_player 87
 remove_player 88
 remove_player 89
-remove_player 92
+remove_player 90
+remove_player 93
 remove_player 94
-remove_player 95
 remove_player 96
+remove_player 97
 remove_player 99
+remove_player 100
 remove_player 102
 remove_player 103
-remove_player 104
 remove_player 105
+remove_player 106
 remove_player 107
 remove_player 108
+remove_player 109
+remove_player 110
 remove_player 112
+remove_player 114
 remove_player 115
 remove_player 116
+remove_player 117
 remove_player 119
-remove_player 120
-remove_player 121
-remove_player 123
 remove_player 124
 remove_player 126
 remove_player 127
 remove_player 128
+remove_player 129
+remove_player 131
 remove_player 134
-remove_player 136
+remove_player 135
+remove_player 137
+remove_player 138
 remove_player 139
 remove_player 140
 remove_player 141
-remove_player 142
-remove_player 143
-remove_player 147
+remove_player 144
+remove_player 146
 remove_player 149
 remove_player 150
-remove_player 151
+remove_player 152
 remove_player 153
-remove_player 154
 remove_player 155
 remove_player 156
 remove_player 157
 remove_player 158
-remove_player 159
-remove_player 161
+remove_player 160
 remove_player 162
-remove_player 163
-remove_player 164
 remove_player 166
 remove_player 167
 remove_player 168
+remove_player 169
 remove_player 170
 remove_player 171
-remove_player 172
-remove_player 173
-remove_player 174
 remove_player 175
 remove_player 176
+remove_player 180
 remove_player 181
-remove_player 183
-remove_player 186
+remove_player 182
+remove_player 184
+remove_player 185
+remove_player 189
 remove_player 190
-remove_player 191
 remove_player 193
 remove_player 194
-remove_player 197
-remove_player 199
+remove_player 195
 remove_player 200
 remove_team 2
+remove_team 3
+remove_team 6
+remove_team 8
+remove_team 9
+remove_team 11
+remove_team 15
+remove_team 17
+remove_team 18
+remove_team 20
+remove_team 10
+remove_team 19
 remove_team 5
 remove_team 7
-remove_team 8
-remove_team 13
-remove_team 15
-remove_team 19
-remove_team 20
-remove_team 4
-remove_team 1
-remove_team 16
-remove_team 9

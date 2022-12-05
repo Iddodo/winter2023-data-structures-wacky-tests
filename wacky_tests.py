@@ -628,6 +628,10 @@ def execute_random_command(command):
             min_team_id = random_team_ID_extended()
             max_team_id = random.choice(actual_team_ids[actual_team_ids.index(min_team_id):])
             knockout_winner(min_team_id, max_team_id)
+            knockout_winner(min_team_id - small_magic, max_team_id + small_magic)
+            knockout_winner(min_team_id - small_magic, max_team_id - small_magic)
+            knockout_winner(min_team_id + small_magic, max_team_id + small_magic)
+            knockout_winner(min_team_id + small_magic, max_team_id - small_magic)
             return
 
         min_team_id = random_team_ID_extended()
