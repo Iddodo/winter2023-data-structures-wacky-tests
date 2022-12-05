@@ -272,7 +272,7 @@ def get_top_scorer(teamId):
                     max_score = player['goals']
                     max_player = player
                 elif player['goals'] == max_score:
-                    if player['cards'] > max_player['cards']:
+                    if player['cards'] < max_player['cards']:
                         max_player = player
                     elif player['cards'] == max_player['cards']:
                         max_player = player if player['playerId'] > max_player['playerId'] else max_player
