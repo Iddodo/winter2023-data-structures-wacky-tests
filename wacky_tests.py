@@ -21,6 +21,16 @@ def add_expected_raw(text):
 
 
 # -------------------------------
+def has_goalkeeper(teamId):
+    if str(teamId) not in teams:
+        return False
+    
+    for ID in teams[str(teamId)]['players']:
+        if players[ID]['goalKeeper'] == 'true':
+            return True
+
+    return False
+
 def valid_team(teamId):
     if str(teamId) not in teams:
         return False
@@ -32,7 +42,7 @@ def valid_team(teamId):
         if players[ID]['goalKeeper'] == 'true':
             return True
 
-    return False
+    return has_goalkeeper(teamId)
 
 def player_sigma(teamId):
     sum = 0
@@ -46,8 +56,8 @@ def team_sigma(teamId):
     return teams[str(teamId)]['points'] + player_sigma(teamId)
 
 def increment_player_played(teamId):
-    for player in team[str(teamId)]['players']:
-        player['gamesPlayed'] += 1
+    for ID in teams[str(teamId)]['players']:
+        players[str(ID)]['gamesPlayed'] += 1
 
 def closest_player_le(target, player1, player2):
     dist1_goals = abs(target['goals'] - player1['goals'])
@@ -76,7 +86,6 @@ def num_valid_teams():
     for ID in teams:
         if valid_team(ID):
             counter += 1
-
     return counter
 
 # -------------------------------
@@ -199,7 +208,7 @@ def get_num_played_games(playerId):
         add_expected('get_num_played_games', 'FAILURE')
 
     else:
-        add_expected('get_num_played_games', 'SUCCESS', players[str(playerId)]['gamesPlayed'])
+        add_expected('get_num_played_games', 'SUCCESS', str(players[str(playerId)]['gamesPlayed']))
 
     add_output(['get_num_played_games', playerId])
 
@@ -438,7 +447,9 @@ def knockout_winner(minTeamId, maxTeamId):
 #-----------------------------------------------------
 
 
-num_teams = 80
+turn_off_validity_checks = True
+
+num_teams = 20
 num_players = 200
 max_start_points = 69
 num_teams_invalid_points = 20
@@ -446,7 +457,7 @@ num_teams_invalid_points = 20
 magic_number = 12345
 small_magic = 5
 
-bool_opts = ['true', 'false']
+bool_opts = ['true'] * 5 + ['false']
 
 
 actual_team_ids = list(range(1, num_teams + 1))
@@ -456,6 +467,9 @@ def random_team_ID():
     return random.choice(actual_team_ids)
 
 def random_int_list_extended(l, num_original = None):
+    if turn_off_validity_checks:
+        return random.choice(l)
+
     if num_original == None:
         num_original = len(l)
 
@@ -468,16 +482,24 @@ def random_int_list_extended(l, num_original = None):
     return random.choice(ext)
 
 def random_team_ID_extended(num_original = len(actual_team_ids)):
+    if turn_off_validity_checks:
+        return random.choice(actual_team_ids)
+
     return random_int_list_extended(actual_team_ids + [x for x in list(range(1, num_teams + 1)) if x not in actual_team_ids], num_original)
 
 
 def random_player_ID_extended():
+    if turn_off_validity_checks:
+        return random.choice(actual_player_ids)
+
     return random_int_list_extended(actual_player_ids + [x for x in list(range(1, num_players + 1)) if x not in actual_player_ids])
 
 def random_positive_number():
     return random.randint(1, magic_number)
 
 def random_almost_positive():
+    if turn_off_validity_checks:
+        return random_positive_number()
     return random.randint(-10, magic_number)
 
 def random_bool():
@@ -595,14 +617,23 @@ def execute_random_command(command):
     if command == 'get_closest_player':
         player_id = random_player_ID_extended()
         team_id = random_team_ID_extended()
+
+        if turn_off_validity_checks:
+            team_id = players[str(player_id)]['teamId']
         get_closest_player(player_id, team_id)
         return
 
     if command == 'knockout_winner':
+        if turn_off_validity_checks:
+            min_team_id = random_team_ID_extended()
+            max_team_id = random.choice(actual_team_ids[actual_team_ids.index(min_team_id):])
+            knockout_winner(min_team_id, max_team_id)
+            return
+
         min_team_id = random_team_ID_extended()
         max_team_id = random_team_ID_extended()
+
         knockout_winner(min_team_id, max_team_id)
-        return
 
 
 for ID in actual_team_ids:
