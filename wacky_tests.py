@@ -59,7 +59,11 @@ def increment_player_played(teamId):
     for ID in teams[str(teamId)]['players']:
         players[str(ID)]['gamesPlayed'] += 1
 
-def closest_player_le(target, player1, player2):
+def closest_player_le(targetID, player1ID, player2ID):
+    target = players[str(targetID)]
+    player1 = players[str(player1ID)]
+    player2 = players[str(player2ID)]
+
     dist1_goals = abs(target['goals'] - player1['goals'])
     dist2_goals = abs(target['goals'] - player2['goals'])
 
@@ -70,15 +74,15 @@ def closest_player_le(target, player1, player2):
     dist2_playerId = abs(target['playerId'] - player2['playerId'])
 
     if dist1_goals != dist2_goals:
-        return player1 if dist1_goals < dist2_goals else player2
+        return player1ID if dist1_goals < dist2_goals else player2ID
 
     if dist1_cards != dist2_cards:
-        return player1 if dist1_cards < dist2_cards else player2
+        return player1ID if dist1_cards < dist2_cards else player2ID
 
     if dist1_playerId != dist2_playerId:
-        return player1 if dist1_playerId < dist2_playerId else player2
+        return player1ID if dist1_playerId < dist2_playerId else player2ID
 
-    return player1 if player1['playerId'] > player2['playerId'] else player2
+    return player1ID if player1['playerId'] > player2['playerId'] else player2ID
 
 def num_valid_teams():
     counter = 0
@@ -374,21 +378,22 @@ def get_closest_player(playerId, teamId):
         add_expected('get_closest_player', 'FAILURE')
 
     else:
-        target = players[str(playerId)]
         closest = None
 
-        for ID in players:
-            player = players[ID]
-            if player == target:
-                continue
+        in_order_players =  sorted(list(players.keys()), key=functools.cmp_to_key(player_goals_ID_le))
 
-            if closest == None:
-                closest = player
-                continue
+        target_index = in_order_players.index(str(playerId))
 
-            closest = closest_player_le(target, closest, player)
+        if target_index == 0:
+            closest = in_order_players[1]
 
-        add_expected('get_closest_player', 'SUCCESS', closest['playerId'])
+        elif target_index == len(in_order_players) - 1:
+            closest = in_order_players[-2]
+
+        else:
+            closest = closest_player_le(in_order_players[target_index], in_order_players[target_index - 1], in_order_players[target_index + 1])
+
+        add_expected('get_closest_player', 'SUCCESS', players[closest]['playerId'])
 
 
 def knockout_winner(minTeamId, maxTeamId):
