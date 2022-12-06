@@ -14,16 +14,19 @@
 #+begin_src bash
 ‏g++ -std=c++11 -Wall -Werror -pedantic-errors -ggdb3 -DNDEBUG ./*.cpp -o main
 #+end_src
+
 -  יוצרים תיקייה לשים בה את התוצאות של הטסטים:
 
 #+begin_src bash
 mkdir -p wacky/real-out
 #+end_src
+
 -  בודקים חריגות זיכרון:
 
 #+begin_src bash
 ‏for i  in {- .100}; do valgrind --leak-check=full  ./main < "wacky/input$i.in" > "wacky/real-out/output$i.out" ; done
  #+end_src
+
 -  משווים את הטסטים לתוצאות שלכם:
 
 #+begin_src bash
