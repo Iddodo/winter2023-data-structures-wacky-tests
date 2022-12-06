@@ -8,7 +8,29 @@
 - רוב הלוגיקה יובאה ישירות לפייתון (הצילו)
 - הפתעה חדשה בכל טסט (=segfault=)
 
-** איך מריצים?
+** איך מריצים?!
+1. מקמפלים את הפרויקט שלכם
+
+   #+begin_src bash
+‏g++ -std=c++11 -Wall -Werror -pedantic-errors -ggdb3 -DNDEBUG ./*.cpp -o main
+   #+end_src
+
+2. יוצרים תיקייה לשים בה את התוצאות של הטסטים:
+   #+begin_src bash
+mkdir -p wacky/real-out
+   #+end_src
+
+3. בודקים חריגות זיכרון:
+   #+begin_src bash
+‏for i  in {1..100}; do valgrind --leak-check=full  ./main < "wacky/input_$i.txt" > "wacky/real-out/output_$i.txt" ; done
+   #+end_src
+
+4. משווים את הטסטים לתוצאות שלכם:
+   #+begin_src bash
+‏for i  in {1..100}; do diff -s -q out_$i.txt my_output_$i.txt ; done
+   #+end_src
+
+** איך מגנרטים טסטים חדשים?!
 - מריצים את הקובץ =wacky_tests.sh=
 - נכנסים לעולם משוגע של כאב וסבל
 
