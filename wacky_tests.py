@@ -412,7 +412,8 @@ def knockout_winner(minTeamId, maxTeamId):
             if (not (ID >= minTeamId and ID <= maxTeamId)):
                 continue
 
-            playing_teams.append(ID)
+            playing_teams.append(teams[str(ID)].copy())
+            playing_teams[-1]['sigma'] = team_sigma(ID)
 
         if not playing_teams:
             add_expected('knockout_winner', 'FAILURE')
@@ -422,18 +423,17 @@ def knockout_winner(minTeamId, maxTeamId):
             round_winners = []
 
             for t in list(zip(playing_teams[::2], playing_teams[1::2])):
-                teamId1, teamId2 = t
-
-                team1_sigma = team_sigma(teamId1)
-                team2_sigma = team_sigma(teamId2)
+                team1, team2 = t
 
                 winner = None
-                if team1_sigma == team2_sigma:
-                    winner = teamId1 if teamId1 > teamId2 else teamId2
+                if team1['sigma'] != team2['sigma']:
+                    winner = team1 if team1['sigma'] > team2['sigma'] else team2
                 else:
-                    winner = teamId1 if team1_sigma > team2_sigma else teamId2
+                    winner = team1 if team1['teamId'] > team2['teamId'] else team2
 
-                teams[str(winner)]['points'] += 3
+                loser = team1 if winner == team2 else team2
+
+                winner['sigma'] += 3 + loser['sigma']
 
                 round_winners.append(winner)
 
@@ -442,7 +442,7 @@ def knockout_winner(minTeamId, maxTeamId):
 
             playing_teams = round_winners
 
-        add_expected('knockout_winner', 'SUCCESS', teams[str(playing_teams[0])]['teamId'])
+        add_expected('knockout_winner', 'SUCCESS', playing_teams[0]['teamId'])
 
 #-----------------------------------------------------
 
