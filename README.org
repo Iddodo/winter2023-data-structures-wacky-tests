@@ -24,13 +24,13 @@ mkdir -p wacky/real-out
 -  בודקים חריגות זיכרון:
 
 #+begin_src bash
-‏for i  in {- .100}; do valgrind --leak-check=full  ./main < "wacky/input$i.in" > "wacky/real-out/output$i.out" ; done
+‏for i  in {1..100}; do valgrind --leak-check=full  ./main < "wacky/input$i.in" > "wacky/real-out/output$i.out" ; done
  #+end_src
 
 -  משווים את הטסטים לתוצאות שלכם:
 
 #+begin_src bash
-‏for i  in {- .100}; do diff -s -q "wacky/out/output$i.out"  "wacky/real-out/output$i.out"  ; done
+‏for i  in {1..100}; do diff -s -q "wacky/out/output$i.out"  "wacky/real-out/output$i.out"  ; done
 #+end_src
 
 ** איך מגנרטים טסטים חדשים?!
