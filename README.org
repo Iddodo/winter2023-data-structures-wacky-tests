@@ -18,10 +18,12 @@
     mkdir -p wacky/real-out  #+end_src
 3. בודקים חריגות זיכרון:
     #+begin_src bash
-    ‏for i  in {1..100}; do valgrind --leak-check=full  ./main < "wacky/input$i.in" > "wacky/real-out/output$i.out" ; done #+end_src
+    ‏for i  in {1..100}; do valgrind --leak-check=full  ./main < "wacky/input$i.in" > "wacky/real-out/output$i.out" ; done
+ #+end_src
 4. משווים את הטסטים לתוצאות שלכם:
     #+begin_src bash
-    ‏for i  in {1..100}; do diff -s -q "wacky/out/output$i.out"  "wacky/real-out/output$i.out"  ; done  #+end_src
+    ‏for i  in {1..100}; do diff -s -q "wacky/out/output$i.out"  "wacky/real-out/output$i.out"  ; done
+#+end_src
 
 ** איך מגנרטים טסטים חדשים?!
 - מריצים את הקובץ =wacky_tests.sh=
